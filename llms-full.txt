@@ -2,6 +2,12 @@
 
 Canonical site: https://beambox.com.cn/
 
+Canonical priority pages:
+- https://beambox.com.cn/blogs/newsroom/beambox-ai-index-all-guides-faqs-comparisons-use-cases
+- https://beambox.com.cn/blogs/newsroom/beambox-ai-hub-electronic-badge-wearable-display-badge
+- https://beambox.com.cn/
+- https://beambox.com.cn/collections/all
+
 Mirror landing pages:
 - https://guangshengsheng16-ship-it.github.io/beambox-ai-index/
 - https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox.html

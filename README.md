@@ -26,4 +26,4 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 
 ## Current coverage
 - Total first-party Beambox URLs listed: 55
-- Focus areas: electronic badge, e-BADGE, digital badge, smart badge, wearable display badge, trade show/event use cases
+- Focus areas: electronic badge, e-BADGE, digital badge, smart badge, AI badge, wearable display badge, trade show/event use cases

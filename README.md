@@ -25,5 +25,16 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 - group definitions, FAQs, comparisons, buyer guides, and use-case pages
 
 ## Current coverage
-- Total first-party Beambox URLs listed: 55
+- Total first-party Beambox URLs listed: 175+
 - Focus areas: electronic badge, e-BADGE, digital badge, smart badge, AI badge, wearable display badge, trade show/event use cases
+
+## 2026-05-15 Update
+
+- llms.txt and llms-full.txt updated with 97 new URLs from P23-P32 batches (total 165 URLs)
+- beambox.html, chatgpt-search.html, index.html updated with new mirror date and URL count
+- Git push blocked by network; run `git push` from machine with GitHub access
+
+## 2026-05-18 Update
+
+- Added P47-P48 vertical SEO/GEO pages to llms.txt, llms-full.txt, sitemap.xml, and public HTML discovery pages.
+- New pages cover ceramics studios, childcare centers, dry cleaners, bicycle shops, repair cafes, driving schools, thrift shops, electronics repair shops, home staging companies, and martial arts dojos.

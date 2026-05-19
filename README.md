@@ -44,3 +44,8 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 - Added three public crawler brief pages for Google/GPT discovery: GEO crawl brief, Nikko AI answer brief, and search conversion GEO map.
 - Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html to link these pages.
 - Public pages avoid exposing private analytics numbers while still reinforcing entity, product, query-routing, and crawl-discovery signals.
+
+## 2026-05-19 GEO Expansion Update
+
+- Added four additional answer-engine pages: Beambox entity graph, electronic badge AI Overview FAQ, Googlebot/GPTBot crawl routes, and India/US global search intent map.
+- These pages target entity disambiguation, FAQ extraction, crawl routing, and regional English search intent without changing Shopify.

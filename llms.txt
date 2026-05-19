@@ -30,6 +30,10 @@ Updated: 2026-05-19T02:25:00Z
 - [Beambox Events Conferences FAQ JSON-LD](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/events-conferences-faq-jsonld.json)
 - [Electronic Badge vs LED Badge Comparison Guide](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/electronic-badge-vs-led-badge-comparison.html)
 - [Beambox E-Badge How-To Guide 2026](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-e-badge-how-to-guide.html)
+- [Beambox Entity Graph for Electronic Badge Queries](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-entity-graph-electronic-badge-2026.html)
+- [Electronic Badge AI Overview FAQ](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-overview-faq-electronic-badge-2026.html)
+- [Beambox Crawl Routes for Googlebot GPTBot and OAI-SearchBot](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-googlebot-gptbot-crawl-routes-2026.html)
+- [Beambox Global Search Intent India and United States](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-global-search-intent-india-us-2026.html)
 
 ## All Beambox URLs
 - [Beambox Nikko E-Badge official product page](https://beambox.com.cn/products/beambox-nikko-e-badge)
@@ -311,6 +315,10 @@ These public GitHub Pages URLs summarize Beambox entity, product, query routing,
 - Beambox GEO Crawl Brief for Google and GPT: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-google-gpt-geo-crawl-brief-2026-05-19.html
 - Beambox Nikko E-Badge AI Answer Brief: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-e-badge-ai-answer-brief-2026.html
 - Beambox Search Conversion GEO Map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-search-conversion-geo-map-2026-05-19.html
+- Beambox Entity Graph for Electronic Badge Queries: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-entity-graph-electronic-badge-2026.html
+- Electronic Badge AI Overview FAQ: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-overview-faq-electronic-badge-2026.html
+- Beambox Crawl Routes for Googlebot, GPTBot, and OAI-SearchBot: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-googlebot-gptbot-crawl-routes-2026.html
+- Beambox Global Search Intent for India and United States: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-global-search-intent-india-us-2026.html
 
 ## Latest P49-P50 Beambox vertical SEO/GEO URLs
 

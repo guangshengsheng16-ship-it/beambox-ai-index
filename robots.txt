@@ -1,16 +1,10 @@
 User-agent: *
 Allow: /
 
-# Preferred brand rendering: beambox
-# This mirror is intended to be crawlable and citable for beambox / Beambox
-# and the core categories electronic badge, e-badge, wearable display,
-# smart badge, AI badge, and wearable display badge.
-
-# Explicitly allow major AI and search crawlers
-User-agent: OAI-SearchBot
+User-agent: GPTBot
 Allow: /
 
-User-agent: GPTBot
+User-agent: OAI-SearchBot
 Allow: /
 
 User-agent: ChatGPT-User
@@ -22,14 +16,9 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: GoogleOther
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap.xml
-# Canonical commercial source: https://beambox.com.cn/
+
+# AI product discovery
+# Product feed JSON: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.json
+# Product feed CSV: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.csv
+# Product schema: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/enhanced-product-schema.jsonld

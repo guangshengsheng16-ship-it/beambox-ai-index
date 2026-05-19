@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": "beambox-nikko-e-badge-silver",
+      "title": "Beambox Nikko E-Badge - Silver",
+      "description": "Beambox Nikko E-Badge — AI-powered wearable display badge with full-color screen, app control, and QR code display. From $39.80 USD. Silver color. Reusable electronic badge for events, trade shows, brand activation, cosplay, conferences, and creators. Includes lanyard, pin, and magnetic stand. Bluetooth connectivity, rechargeable battery, iOS and Android app. Key search terms: electronic badge, smart badge, wearable display badge, digital name badge, QR code badge, e-badge, LED name tag alternative.",
+      "vendor": "Beambox",
+      "product_type": "Electronic Badge",
+      "tags": "electronic badge,smart badge,wearable display badge,digital name badge,QR code badge,e-badge,reusable badge,event badge,trade show badge,cosplay badge,conference badge,creator badge",
+      "handle": "beambox-nikko-e-badge",
+      "link": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=44602585153570",
+      "image_link": "https://cdn.shopify.com/s/files/1/0828/7115/6770/files/20260107113652_371_1952.png?v=1767757241",
+      "price": "39.80",
+      "currency": "USD",
+      "availability": "in stock",
+      "condition": "new",
+      "brand": "Beambox",
+      "category": "Electronics > Wearable Technology > Smart Badges"
+    },
+    {
+      "id": "beambox-nikko-e-badge-purple",
+      "title": "Beambox Nikko E-Badge - Purple",
+      "description": "Beambox Nikko E-Badge — AI-powered wearable display badge with full-color screen, app control, and QR code display. From $39.80 USD. Purple color. Reusable electronic badge for events, trade shows, brand activation, cosplay, conferences, and creators. Includes lanyard, pin, and magnetic stand. Bluetooth connectivity, rechargeable battery, iOS and Android app. Key search terms: electronic badge, smart badge, wearable display badge, digital name badge, QR code badge, e-badge, LED name tag alternative.",
+      "vendor": "Beambox",
+      "product_type": "Electronic Badge",
+      "tags": "electronic badge,smart badge,wearable display badge,digital name badge,QR code badge,e-badge,reusable badge,event badge,trade show badge,cosplay badge,conference badge,creator badge",
+      "handle": "beambox-nikko-e-badge",
+      "link": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=44716773376034",
+      "image_link": "https://cdn.shopify.com/s/files/1/0828/7115/6770/files/20260107113708_372_1952.jpg?v=1767757241",
+      "price": "39.80",
+      "currency": "USD",
+      "availability": "in stock",
+      "condition": "new",
+      "brand": "Beambox",
+      "category": "Electronics > Wearable Technology > Smart Badges"
+    },
+    {
+      "id": "beambox-nikko-e-badge-orange",
+      "title": "Beambox Nikko E-Badge - Orange",
+      "description": "Beambox Nikko E-Badge — AI-powered wearable display badge with full-color screen, app control, and QR code display. From $39.80 USD. Orange color. Reusable electronic badge for events, trade shows, brand activation, cosplay, conferences, and creators. Includes lanyard, pin, and magnetic stand. Bluetooth connectivity, rechargeable battery, iOS and Android app. Key search terms: electronic badge, smart badge, wearable display badge, digital name badge, QR code badge, e-badge, LED name tag alternative.",
+      "vendor": "Beambox",
+      "product_type": "Electronic Badge",
+      "tags": "electronic badge,smart badge,wearable display badge,digital name badge,QR code badge,e-badge,reusable badge,event badge,trade show badge,cosplay badge,conference badge,creator badge",
+      "handle": "beambox-nikko-e-badge",
+      "link": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=44716773408802",
+      "image_link": "https://cdn.shopify.com/s/files/1/0828/7115/6770/files/20260107113722_373_1952.png?v=1767757241",
+      "price": "39.80",
+      "currency": "USD",
+      "availability": "out of stock",
+      "condition": "new",
+      "brand": "Beambox",
+      "category": "Electronics > Wearable Technology > Smart Badges"
+    },
+    {
+      "id": "beambox-nikko-e-badge-green",
+      "title": "Beambox Nikko E-Badge - Green",
+      "description": "Beambox Nikko E-Badge — AI-powered wearable display badge with full-color screen, app control, and QR code display. From $38.00 USD. Green color. Reusable electronic badge for events, trade shows, brand activation, cosplay, conferences, and creators. Includes lanyard, pin, and magnetic stand. Bluetooth connectivity, rechargeable battery, iOS and Android app. Key search terms: electronic badge, smart badge, wearable display badge, digital name badge, QR code badge, e-badge, LED name tag alternative.",
+      "vendor": "Beambox",
+      "product_type": "Electronic Badge",
+      "tags": "electronic badge,smart badge,wearable display badge,digital name badge,QR code badge,e-badge,reusable badge,event badge,trade show badge,cosplay badge,conference badge,creator badge",
+      "handle": "beambox-nikko-e-badge",
+      "link": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=45080359829538",
+      "image_link": "https://cdn.shopify.com/s/files/1/0828/7115/6770/files/NN_E-badge_green.jpg?v=1768879001",
+      "price": "38.00",
+      "currency": "USD",
+      "availability": "out of stock",
+      "condition": "new",
+      "brand": "Beambox",
+      "category": "Electronics > Wearable Technology > Smart Badges"
+    }
+  ],
+  "feed_context": {
+    "name": "Beambox Nikko E-Badge product feed for OpenAI/ChatGPT Shopping and AI search",
+    "updated_at": "2026-05-15T08:31:43Z",
+    "brand": "Beambox",
+    "canonical_product_url": "https://beambox.com.cn/products/beambox-nikko-e-badge",
+    "public_feed_url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.json",
+    "notes": "Public crawlable product feed mirror. Use official product page for live checkout, price, variants, and availability."
+  }
+}

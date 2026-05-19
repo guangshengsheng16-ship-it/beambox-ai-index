@@ -60,3 +60,9 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 
 - Added four focused crawl routes for previously published Beambox Newsroom blogs: buyer intent, definitions/FAQ/how-to, comparison alternatives, and vertical use cases.
 - Each topic index has a matching ItemList JSON-LD file and is linked from llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html.
+
+## 2026-05-19 Answer Snippet and Citation Map Build
+
+- Added three direct answer-engine support pages: AI answer snippets, electronic badge buying decision matrix, and GPT citation source map.
+- These pages reinforce citable short answers, buyer-intent routing, and canonical source selection for GPT, ChatGPT Search, Google AI Overview, OAI-SearchBot, GPTBot, and other AI crawlers.
+- New public URLs: `beambox-ai-answer-snippets-electronic-badge-2026.html`, `beambox-electronic-badge-buying-decision-matrix-2026.html`, and `beambox-gpt-citation-source-map-2026.html`.

@@ -38,3 +38,9 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 
 - Added P47-P48 vertical SEO/GEO pages to llms.txt, llms-full.txt, sitemap.xml, and public HTML discovery pages.
 - New pages cover ceramics studios, childcare centers, dry cleaners, bicycle shops, repair cafes, driving schools, thrift shops, electronics repair shops, home staging companies, and martial arts dojos.
+
+## 2026-05-19 GEO Crawler Brief Update
+
+- Added three public crawler brief pages for Google/GPT discovery: GEO crawl brief, Nikko AI answer brief, and search conversion GEO map.
+- Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html to link these pages.
+- Public pages avoid exposing private analytics numbers while still reinforcing entity, product, query-routing, and crawl-discovery signals.

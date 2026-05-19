@@ -49,3 +49,9 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 
 - Added four additional answer-engine pages: Beambox entity graph, electronic badge AI Overview FAQ, Googlebot/GPTBot crawl routes, and India/US global search intent map.
 - These pages target entity disambiguation, FAQ extraction, crawl routing, and regional English search intent without changing Shopify.
+
+## 2026-05-19 Newsroom Blog Index Build
+
+- Added a crawlable Beambox Newsroom Blog Index page for previously published independent-site blogs.
+- The index groups 265 Beambox Newsroom URLs by buyer intent, definitions, comparisons, event use cases, vertical GEO pages, and service-industry clusters.
+- Added a matching ItemList JSON-LD file and linked both files from llms.txt, llms-full.txt, and sitemap.xml.

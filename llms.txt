@@ -34,6 +34,8 @@ Updated: 2026-05-19T02:25:00Z
 - [Electronic Badge AI Overview FAQ](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-overview-faq-electronic-badge-2026.html)
 - [Beambox Crawl Routes for Googlebot GPTBot and OAI-SearchBot](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-googlebot-gptbot-crawl-routes-2026.html)
 - [Beambox Global Search Intent India and United States](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-global-search-intent-india-us-2026.html)
+- [Beambox Newsroom Blog Index 2026](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-newsroom-blog-index-2026.html)
+- [Beambox Newsroom Blog Index JSON-LD](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-newsroom-blog-index-2026.jsonld)
 
 ## All Beambox URLs
 - [Beambox Nikko E-Badge official product page](https://beambox.com.cn/products/beambox-nikko-e-badge)

@@ -55,3 +55,8 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 - Added a crawlable Beambox Newsroom Blog Index page for previously published independent-site blogs.
 - The index groups 265 Beambox Newsroom URLs by buyer intent, definitions, comparisons, event use cases, vertical GEO pages, and service-industry clusters.
 - Added a matching ItemList JSON-LD file and linked both files from llms.txt, llms-full.txt, and sitemap.xml.
+
+## 2026-05-19 Newsroom Topic Index Build
+
+- Added four focused crawl routes for previously published Beambox Newsroom blogs: buyer intent, definitions/FAQ/how-to, comparison alternatives, and vertical use cases.
+- Each topic index has a matching ItemList JSON-LD file and is linked from llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html.

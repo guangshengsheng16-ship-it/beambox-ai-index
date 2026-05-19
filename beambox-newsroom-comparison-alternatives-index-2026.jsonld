@@ -1,0 +1,111 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-newsroom-comparison-alternatives-index-2026.jsonld#itemlist",
+  "name": "Beambox Comparison and Alternatives Blog Index 2026",
+  "description": "Beambox Newsroom comparison pages for electronic badge vs LED name tag, printed badge, NFC badge, digital business card, and other alternatives.",
+  "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-newsroom-comparison-alternatives-index-2026.html",
+  "numberOfItems": 13,
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Beambox Nikko E-Badge"
+    },
+    {
+      "@type": "Thing",
+      "name": "electronic badge"
+    },
+    {
+      "@type": "Thing",
+      "name": "smart badge"
+    },
+    {
+      "@type": "Thing",
+      "name": "wearable display badge"
+    },
+    {
+      "@type": "Thing",
+      "name": "QR code badge"
+    }
+  ],
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "url": "https://beambox.com.cn/blogs/newsroom/electronic-badge-vs-traditional-badge",
+      "name": "Electronic Badge Vs Traditional Badge"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "url": "https://beambox.com.cn/blogs/newsroom/beambox-e-badge-vs-led-name-tag-which-is-better",
+      "name": "Beambox E-Badge Vs Led Name Tag Which Is Better"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "url": "https://beambox.com.cn/blogs/newsroom/beambox-vs-printed-badge-for-events-and-exhibitions",
+      "name": "Beambox Vs Printed Badge For Events And Exhibitions"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "url": "https://beambox.com.cn/blogs/newsroom/best-alternative-to-led-name-tags-for-events",
+      "name": "Best Alternative To Led Name Tags For Events"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "url": "https://beambox.com.cn/blogs/newsroom/beambox-e-badge-vs-static-name-badge-for-event-staff",
+      "name": "Beambox E-Badge Vs Static Name Badge For Event Staff"
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "url": "https://beambox.com.cn/blogs/newsroom/best-led-name-tag-alternative-for-events-and-teams",
+      "name": "Best Led Name Tag Alternative For Events And Teams"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "url": "https://beambox.com.cn/blogs/newsroom/electronic-badge-vs-digital-business-card-for-networking",
+      "name": "Electronic Badge Vs Digital Business Card For Networking"
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "url": "https://beambox.com.cn/blogs/newsroom/smart-badge-vs-qr-code-sticker-for-events",
+      "name": "Smart Badge Vs QR Code Sticker For Events"
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "url": "https://beambox.com.cn/blogs/newsroom/wearable-display-badge-vs-nfc-badge-which-is-better",
+      "name": "Wearable Display Badge Vs Nfc Badge Which Is Better"
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "url": "https://beambox.com.cn/blogs/newsroom/digital-name-badge-vs-electronic-badge-vs-smart-badge-meaning-and-differences",
+      "name": "Digital Name Badge Vs Electronic Badge Vs Smart Badge Meaning And Differences"
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "url": "https://beambox.com.cn/blogs/newsroom/beambox-vs-generic-led-name-tag-which-should-you-choose",
+      "name": "Beambox Vs Generic Led Name Tag Which Should You Choose"
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "url": "https://beambox.com.cn/blogs/newsroom/best-smart-badge-events-2026-complete-buyer-comparison",
+      "name": "Best Smart Badge Events 2026 Complete Buyer Comparison"
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "url": "https://beambox.com.cn/blogs/newsroom/electronic-badge-vs-led-name-tag-buying-guide-2026",
+      "name": "Electronic Badge Vs Led Name Tag Buying Guide 2026"
+    }
+  ]
+}

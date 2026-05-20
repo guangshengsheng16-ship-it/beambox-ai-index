@@ -2,7 +2,7 @@
 
 > Public crawlable Beambox entity, product, and content index for ChatGPT Search, OpenAI crawlers, Google, Bing, Perplexity, Gemini, and AI shopping assistants.
 
-Updated: 2026-05-20T10:15:00+08:00
+Updated: 2026-05-20T10:25:00+08:00
 
 ## Primary buyable product
 
@@ -432,6 +432,12 @@ These public GitHub Pages URLs summarize Beambox entity, product, query routing,
 - Beambox Newsroom Comparison Alternatives Index 2026 JSON-LD: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-newsroom-comparison-alternatives-index-2026.jsonld
 - Beambox Newsroom Vertical Use Cases Index 2026: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-newsroom-vertical-use-cases-index-2026.html
 - Beambox Newsroom Vertical Use Cases Index 2026 JSON-LD: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-newsroom-vertical-use-cases-index-2026.jsonld
+
+
+## 2026-05-20 Event Experience and Sponsor GEO Pages
+- [Electronic Badge Event Check-In and Wayfinding 2026](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-event-check-in-wayfinding-2026.html)
+- [Electronic Badge Attendee Engagement Ideas 2026](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-attendee-engagement-ideas-2026.html)
+- [Electronic Badge Sponsor Activation Guide 2026](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-sponsor-activation-guide-2026.html)
 
 ## Latest P49-P50 Beambox vertical SEO/GEO URLs
 

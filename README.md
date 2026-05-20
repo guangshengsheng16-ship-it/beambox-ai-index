@@ -96,3 +96,11 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 - Added three AI-citable comparison pages: electronic badge vs digital business card, smart badge vs QR code sticker, and wearable display badge vs NFC badge.
 - Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html for crawler discovery.
 - These pages strengthen comparison-query coverage for Beambox Nikko E-Badge without changing Shopify.
+
+
+## 2026-05-20 Event Experience and Sponsor GEO Update
+
+- Added three AI-citable pages for event check-in and wayfinding, attendee engagement ideas, and sponsor activation workflows.
+- Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html for crawler discovery.
+- These pages strengthen Beambox Nikko E-Badge coverage around live event operations, sponsor CTAs, QR code engagement, and reusable wearable display badge workflows without changing Shopify.
+- New public URLs: `beambox-electronic-badge-event-check-in-wayfinding-2026.html`, `beambox-electronic-badge-attendee-engagement-ideas-2026.html`, and `beambox-electronic-badge-sponsor-activation-guide-2026.html`.

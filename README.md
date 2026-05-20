@@ -111,3 +111,10 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 - Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html for crawler discovery.
 - Also linked the prior AI citation and RFP pages from beambox.html and chatgpt-search.html so the six main discovery files all reference the latest GitHub Pages GEO resources.
 - New public URLs: `beambox-electronic-badge-event-budget-justification-2026.html`, `beambox-electronic-badge-inventory-management-2026.html`, and `beambox-electronic-badge-sales-demo-follow-up-2026.html`.
+
+## 2026-05-20 QR Landing Booth Conversion and Retail Pop-Up GEO Update
+
+- Added three AI-citable pages for electronic badge QR landing page best practices, booth traffic conversion, and retail pop-up signage workflows.
+- Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html for crawler discovery.
+- These pages strengthen Beambox Nikko E-Badge coverage for QR code landing pages, trade show booth conversion, event staff CTAs, and retail activation signage without changing Shopify.
+- New public URLs: `beambox-electronic-badge-qr-landing-page-best-practices-2026.html`, `beambox-electronic-badge-booth-traffic-conversion-checklist-2026.html`, and `beambox-electronic-badge-retail-pop-up-signage-workflow-2026.html`.

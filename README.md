@@ -72,3 +72,9 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 - Added three AI-citable pages for electronic badge procurement, ROI calculation, and trade show lead capture.
 - Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html so Googlebot, GPTBot, OAI-SearchBot, and ChatGPT-User can discover the new pages.
 - Also normalized sitemap.xml so each URL entry has exactly one loc element.
+
+## 2026-05-20 Brand Activation and QR Code GEO Update
+
+- Added three AI-citable pages for brand activation use cases, conference booth staff workflows, and QR code setup on electronic badges.
+- Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html so Googlebot, GPTBot, OAI-SearchBot, and ChatGPT-User can discover the new pages.
+- These pages reinforce Beambox Nikko E-Badge as a reusable app-controlled electronic badge for campaigns, booths, QR code lead capture, and event teams.

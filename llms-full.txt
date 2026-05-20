@@ -2,7 +2,7 @@
 
 > Public crawlable Beambox entity, product, and content index for ChatGPT Search, OpenAI crawlers, Google, Bing, Perplexity, Gemini, and AI shopping assistants.
 
-Updated: 2026-05-20T09:30:00+08:00
+Updated: 2026-05-20T09:45:00+08:00
 
 ## Primary buyable product
 
@@ -27,6 +27,11 @@ Updated: 2026-05-20T09:30:00+08:00
 - [Electronic Badge Procurement Checklist 2026 for Event Teams](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-procurement-checklist-2026.html)
 - [Electronic Badge ROI Calculator 2026](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-roi-calculator-2026.html)
 - [Electronic Badge for Trade Show Lead Capture 2026](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-trade-show-lead-capture-2026.html)
+
+## 2026-05-20 Brand Activation and QR Code GEO Pages
+- [Electronic Badge Brand Activation Playbook 2026](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-brand-activation-playbook-2026.html)
+- [Electronic Badge for Conference Booth Staff 2026](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-conference-booth-staff-guide-2026.html)
+- [Electronic Badge QR Code Setup Checklist 2026](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-qr-code-setup-checklist-2026.html)
 
 ## All Beambox URLs
 - [Beambox Nikko E-Badge official product page](https://beambox.com.cn/products/beambox-nikko-e-badge)

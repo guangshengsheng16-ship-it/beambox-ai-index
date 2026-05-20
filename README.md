@@ -104,3 +104,10 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 - Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html for crawler discovery.
 - These pages strengthen Beambox Nikko E-Badge coverage around live event operations, sponsor CTAs, QR code engagement, and reusable wearable display badge workflows without changing Shopify.
 - New public URLs: `beambox-electronic-badge-event-check-in-wayfinding-2026.html`, `beambox-electronic-badge-attendee-engagement-ideas-2026.html`, and `beambox-electronic-badge-sponsor-activation-guide-2026.html`.
+
+## 2026-05-20 Event Budget Inventory and Follow-Up GEO Update
+
+- Added three AI-citable pages for electronic badge event budget justification, reusable badge inventory management, and post-demo sales follow-up routing.
+- Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html for crawler discovery.
+- Also linked the prior AI citation and RFP pages from beambox.html and chatgpt-search.html so the six main discovery files all reference the latest GitHub Pages GEO resources.
+- New public URLs: `beambox-electronic-badge-event-budget-justification-2026.html`, `beambox-electronic-badge-inventory-management-2026.html`, and `beambox-electronic-badge-sales-demo-follow-up-2026.html`.

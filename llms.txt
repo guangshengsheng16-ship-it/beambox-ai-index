@@ -117,3 +117,7 @@ https://guangshengsheng16-ship-it.github.io/beambox-ai-index/events-conferences-
 https://guangshengsheng16-ship-it.github.io/beambox-ai-index/index.html
 https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.csv
 https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.json
+
+https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-software-integration-guide-2026.html
+https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-battery-life-charging-guide-2026.html
+https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-data-privacy-security-guide-2026.html

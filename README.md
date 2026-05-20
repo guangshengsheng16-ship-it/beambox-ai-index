@@ -122,3 +122,8 @@ This folder powers a public GitHub Pages mirror that helps crawlers, AI systems,
 https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-software-integration-guide-2026.html
 https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-battery-life-charging-guide-2026.html
 https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-badge-data-privacy-security-guide-2026.html
+## 2026-05-20 P49-P50 Google/GPT indexing submission
+
+- Google Search Console URL Inspection completed for 15 P49 Shopify Newsroom URLs: 7 already indexed, 1 newly requested, 7 already requested.
+- P49 and P50 Shopify Newsroom URLs were added as direct GPT discovery entries in llms.txt, llms-full.txt, and chatgpt-shopping.html.
+- GitHub sitemap.xml remains scoped to GitHub Pages URLs; Shopify URLs continue to rely on the Beambox Shopify sitemap and GSC URL Inspection.

@@ -127,3 +127,9 @@ https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-
 - Google Search Console URL Inspection completed for 15 P49 Shopify Newsroom URLs: 7 already indexed, 1 newly requested, 7 already requested.
 - P49 and P50 Shopify Newsroom URLs were added as direct GPT discovery entries in llms.txt, llms-full.txt, and chatgpt-shopping.html.
 - GitHub sitemap.xml remains scoped to GitHub Pages URLs; Shopify URLs continue to rely on the Beambox Shopify sitemap and GSC URL Inspection.
+
+## 2026-05-21 Nikko Details Page GEO Update
+
+- Added a crawlable AI-citable brief for https://beambox.com.cn/pages/nikko-details-1.
+- Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html so GPTBot, OAI-SearchBot, ChatGPT-User, and Googlebot can discover the Nikko details page route.
+- The Shopify details page remains the canonical explanation URL; the official product page remains the buying URL.

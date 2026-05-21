@@ -133,3 +133,9 @@ https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-
 - Added a crawlable AI-citable brief for https://beambox.com.cn/pages/nikko-details-1.
 - Updated llms.txt, llms-full.txt, sitemap.xml, index.html, beambox.html, and chatgpt-search.html so GPTBot, OAI-SearchBot, ChatGPT-User, and Googlebot can discover the Nikko details page route.
 - The Shopify details page remains the canonical explanation URL; the official product page remains the buying URL.
+
+## 2026-05-21 Nikko Google and GPT Indexing Update
+
+- Added three GitHub Pages AI-citable pages for Nikko event booth QR engagement, cosplay/fandom creator use, and brand activation pop-up campaigns.
+- Added the three GitHub Pages URLs plus four Shopify Newsroom Nikko GEO URLs to llms.txt, llms-full.txt, index.html, beambox.html, chatgpt-search.html, and chatgpt-shopping.html for GPTBot, OAI-SearchBot, ChatGPT-User, and Googlebot discovery.
+- Added the three GitHub Pages URLs to sitemap.xml. Shopify URLs remain outside the GitHub sitemap and rely on Shopify/GSC indexing routes.

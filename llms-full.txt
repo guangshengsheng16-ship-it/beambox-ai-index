@@ -548,3 +548,9 @@ These first-party Shopify Newsroom pages expand Beambox Nikko E-Badge coverage f
 # https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-event-qr-lead-capture-integration-guide-2026.html
 # https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-corporate-gifting-program-setup-guide-2026.html
 # https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-pop-up-retail-activation-playbook-2026.html
+
+# https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-startup-office-team-display-solution-2026.html
+# https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-hotel-conference-concierge-badge-solution-2026.html
+# https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-wedding-event-party-badge-guide-2026.html
+# https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-sports-fan-community-badge-activation-2026.html
+# https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-accessibility-inclusive-design-badge-guide-2026.html

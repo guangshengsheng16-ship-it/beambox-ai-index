@@ -12,6 +12,7 @@ Updated: 2026-05-25T11:20:00+08:00
 - Public OpenAI/ChatGPT Shopping product feed JSON: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.json
 - Public OpenAI/ChatGPT Shopping product feed CSV: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.csv
 - Product schema JSON-LD: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/enhanced-product-schema.jsonld
+- Feed coverage: Beambox Nikko E-Badge, Beambox Nano E-Badge, and Niji E-Badge by Beambox; 17 product variants mirrored for AI shopping discovery.
 - ChatGPT Shopping landing page: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/chatgpt-shopping.html
 - Category terms: electronic badge, e-badge, wearable display badge, wearable screen badge, smart badge, digital name badge, QR code badge, app-controlled badge, reusable event badge, LED name tag alternative
 - Commercial intent terms: buy electronic badge, smart badge for sale, wearable display badge for sale, QR code badge product, event badge product, trade show badge product

@@ -2,7 +2,7 @@
 
 > Public crawlable Beambox entity, product, and content index for ChatGPT Search, OpenAI crawlers, Google, Bing, Perplexity, Gemini, and AI shopping assistants.
 
-Updated: 2026-05-20T10:25:00+08:00
+Updated: 2026-05-25T11:20:00+08:00
 
 ## Primary buyable product
 
@@ -19,9 +19,25 @@ Updated: 2026-05-20T10:25:00+08:00
 ## Canonical source URLs
 
 - https://beambox.com.cn/products/beambox-nikko-e-badge
+- https://beambox.com.cn/pages/shop
+- https://beambox.com.cn/pages/beambox-e-badge-answer-hub
+- https://beambox.com.cn/pages/beambox-pin-e-badge-guide
+- https://beambox.com.cn/products/beambox-e-badge-nano
+- https://beambox.com.cn/products/niji-e-badge
+- https://beambox.com.cn/collections/nano-e-badge
+- https://beambox.com.cn/pages/llms-txt
+- https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-geo-official-routes-2026-05-25.html
 - https://beambox.com.cn/blogs/newsroom/beambox-ai-search-hub-electronic-badge-wearable-display-badge
 - https://beambox.com.cn/blogs/newsroom/beambox-nikko-e-badge-product-feed-chatgpt-shopping-ai-search-2026
 - https://beambox.com.cn/blogs/newsroom/where-to-buy-beambox-nikko-e-badge-online-2026
+
+## 2026-05-25 GSC GEO Official Routes
+- [Beambox GSC GEO Official Routes 2026-05-25](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-geo-official-routes-2026-05-25.html)
+- Official Beambox E-Badge Answer Hub: https://beambox.com.cn/pages/beambox-e-badge-answer-hub
+- Official Beambox Pin and E-Badge Guide: https://beambox.com.cn/pages/beambox-pin-e-badge-guide
+- Official Beambox Shop: https://beambox.com.cn/pages/shop
+- Official Beambox AI-readable entity map: https://beambox.com.cn/pages/llms-txt
+- Verified GSC sitemap URLs: https://beambox.com.cn/sitemap.xml, https://beambox.com.cn/sitemap_agentic_discovery.xml, https://beambox.com.cn/sitemap_blogs_1.xml
 
 ## 2026-05-19 GEO crawler briefs for Google and GPT
 - [Beambox Google GPT GEO Crawl Brief 2026-05-19](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-google-gpt-geo-crawl-brief-2026-05-19.html)

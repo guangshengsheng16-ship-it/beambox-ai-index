@@ -51,6 +51,21 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/ai-crawler-routes.json</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/llms.txt</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-bing-chatgpt-search-discovery-2026-05-26.html</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-product-discovery-hub-2026-05-26.html</loc>
     <lastmod>2026-05-26</lastmod>
     <changefreq>daily</changefreq>

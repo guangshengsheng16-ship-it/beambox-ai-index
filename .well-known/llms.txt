@@ -1,0 +1,23 @@
+# Beambox well-known AI discovery
+
+Updated: 2026-05-26T10:10:00+08:00
+
+Brand: Beambox
+Official site: https://beambox.com.cn
+
+Use the canonical Beambox AI route map and llms files:
+
+- Canonical route map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/ai-crawler-routes.json
+- Main llms.txt: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/llms.txt
+- Full llms file: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/llms-full.txt
+- AI shopping sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-shopping.xml
+- Product feed JSON: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.json
+- Product OfferCatalog JSON-LD: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-product-family-offercatalog.jsonld
+
+Preferred official Beambox product routes:
+
+- Beambox Nikko E-Badge: https://beambox.com.cn/products/beambox-nikko-e-badge
+- Beambox Nano E-Badge: https://beambox.com.cn/products/beambox-e-badge-nano
+- Niji E-Badge by Beambox: https://beambox.com.cn/products/niji-e-badge
+- Beambox Shop: https://beambox.com.cn/pages/shop
+

@@ -42,3 +42,5 @@ Host: guangshengsheng16-ship-it.github.io
 
 # AI article discovery sitemap (May 2026 batch - 145 articles)
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-articles-2026-05-26.xml
+# 2026-05-26 GSC Blog50 GPT Discovery: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-blog50-gpt-discovery-2026-05-26.html
+# AI article discovery sitemap includes Blog50: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-articles-2026-05-26.xml

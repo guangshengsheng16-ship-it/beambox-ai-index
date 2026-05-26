@@ -44,3 +44,4 @@ Host: guangshengsheng16-ship-it.github.io
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-articles-2026-05-26.xml
 # 2026-05-26 GSC Blog50 GPT Discovery: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-blog50-gpt-discovery-2026-05-26.html
 # AI article discovery sitemap includes Blog50: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-articles-2026-05-26.xml
+# 2026-05-26 GSC CTR Recovery GPT Discovery: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-ctr-recovery-gpt-discovery-2026-05-26.html

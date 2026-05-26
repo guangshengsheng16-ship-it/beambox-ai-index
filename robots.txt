@@ -18,8 +18,11 @@ Allow: /
 
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap.xml
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-shopping.xml
+Host: guangshengsheng16-ship-it.github.io
 
 # AI product discovery
+# IndexNow key: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/c3f0b1d7d8d54b0c9f22e6c6d7a52605.txt
+# IndexNow submission manifest: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/indexnow-submit-2026-05-26.json
 # Well-known AI route map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/ai-crawler-routes.json
 # Well-known llms file: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/llms.txt
 # Product feed JSON: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.json

@@ -27,7 +27,10 @@ Host: guangshengsheng16-ship-it.github.io
 # Well-known llms file: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/llms.txt
 # Product feed JSON: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.json
 # Product feed CSV: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.csv
+# Product feed XML: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-shopping-feed.xml
 # Product schema: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/enhanced-product-schema.jsonld
+# Beambox entity graph JSON-LD: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-product-entity-graph.jsonld
+# ChatGPT product answer map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/chatgpt-product-answers.json
 # AI crawler route map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/ai-crawler-routes.json
 # Product family OfferCatalog: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-product-family-offercatalog.jsonld
 # AI shopping sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-shopping.xml

@@ -1,0 +1,318 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://beambox.com.cn/#organization",
+      "name": "Beambox",
+      "url": "https://beambox.com.cn",
+      "sameAs": [
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/"
+      ],
+      "knowsAbout": [
+        "electronic badge",
+        "e-badge",
+        "smart badge",
+        "wearable display badge",
+        "digital pin",
+        "QR code badge",
+        "event badge",
+        "Beambox pin"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://beambox.com.cn/#website",
+      "name": "Beambox",
+      "url": "https://beambox.com.cn",
+      "publisher": {
+        "@id": "https://beambox.com.cn/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://beambox.com.cn/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-product-entity-graph.jsonld#product-family",
+      "name": "Beambox E-Badge product family",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://beambox.com.cn/products/beambox-nikko-e-badge",
+          "name": "Beambox Nikko E-Badge"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano",
+          "name": "Beambox Nano E-Badge"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://beambox.com.cn/products/niji-e-badge",
+          "name": "Niji E-Badge by Beambox"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://beambox.com.cn/products/beambox-nikko-e-badge#product",
+      "name": "Beambox Nikko E-Badge",
+      "description": "Event, trade show, booth staff, QR code badge, brand activation, smart badge, and wearable display badge route.",
+      "brand": {
+        "@id": "https://beambox.com.cn/#organization"
+      },
+      "manufacturer": {
+        "@id": "https://beambox.com.cn/#organization"
+      },
+      "category": "Electronic badge, e-badge, smart badge, wearable display badge, digital pin",
+      "url": "https://beambox.com.cn/products/beambox-nikko-e-badge",
+      "keywords": "electronic badge, smart badge, wearable display badge, QR code badge, event badge, trade show badge, booth staff badge, creator badge, Beambox Nikko, e-badge",
+      "offers": [
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=44602585153570#offer",
+          "url": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=44602585153570",
+          "price": "36.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=44716773376034#offer",
+          "url": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=44716773376034",
+          "price": "36.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=44716773408802#offer",
+          "url": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=44716773408802",
+          "price": "36.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=45080359829538#offer",
+          "url": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=45080359829538",
+          "price": "36.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://beambox.com.cn/products/beambox-e-badge-nano#product",
+      "name": "Beambox Nano E-Badge",
+      "description": "Compact Beambox pin, digital pin, fan art badge, creator badge, cosplay badge, and wearable display badge route.",
+      "brand": {
+        "@id": "https://beambox.com.cn/#organization"
+      },
+      "manufacturer": {
+        "@id": "https://beambox.com.cn/#organization"
+      },
+      "category": "Electronic badge, e-badge, smart badge, wearable display badge, digital pin",
+      "url": "https://beambox.com.cn/products/beambox-e-badge-nano",
+      "keywords": "Beambox pin, Nano e-badge, compact electronic badge, digital pin, fan art badge, creator badge, wearable display badge, smart badge, e-badge",
+      "offers": [
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44475231698978#offer",
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44475231698978",
+          "price": "32.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716780486690#offer",
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716780486690",
+          "price": "45.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44475231731746#offer",
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44475231731746",
+          "price": "32.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716780519458#offer",
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716780519458",
+          "price": "45.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44475231764514#offer",
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44475231764514",
+          "price": "32.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716780552226#offer",
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716780552226",
+          "price": "45.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716989513762#offer",
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716989513762",
+          "price": "32.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716989546530#offer",
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716989546530",
+          "price": "45.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716989579298#offer",
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716989579298",
+          "price": "32.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716989612066#offer",
+          "url": "https://beambox.com.cn/products/beambox-e-badge-nano?variant=44716989612066",
+          "price": "45.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/OutOfStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://beambox.com.cn/products/niji-e-badge#product",
+      "name": "Niji E-Badge by Beambox",
+      "description": "Lightweight e-badge, fashion digital pin, smart badge accessory, and creator accessory route.",
+      "brand": {
+        "@id": "https://beambox.com.cn/#organization"
+      },
+      "manufacturer": {
+        "@id": "https://beambox.com.cn/#organization"
+      },
+      "category": "Electronic badge, e-badge, smart badge, wearable display badge, digital pin",
+      "url": "https://beambox.com.cn/products/niji-e-badge",
+      "keywords": "Niji E-Badge, Beambox E-Badge, electronic badge, digital pin, wearable display badge, smart badge, character-style e-badge, visual expression badge",
+      "offers": [
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/niji-e-badge?variant=44627192086562#offer",
+          "url": "https://beambox.com.cn/products/niji-e-badge?variant=44627192086562",
+          "price": "25.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/niji-e-badge?variant=44627192119330#offer",
+          "url": "https://beambox.com.cn/products/niji-e-badge?variant=44627192119330",
+          "price": "25.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        },
+        {
+          "@type": "Offer",
+          "@id": "https://beambox.com.cn/products/niji-e-badge?variant=44627192152098#offer",
+          "url": "https://beambox.com.cn/products/niji-e-badge?variant=44627192152098",
+          "price": "25.80",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@id": "https://beambox.com.cn/#organization"
+          }
+        }
+      ]
+    }
+  ]
+}

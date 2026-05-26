@@ -597,3 +597,6 @@ https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-e-bad
 - [Beambox Nikko E-Badge 48-Hour Event Setup Workflow](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-48-hour-event-setup-workflow-2026.html) - 48-hour setup workflow for quickly preparing Beambox Nikko E-Badge content, QR codes, staff roles, charging, testing, and event-day fallback plans.
 - [Beambox Nikko E-Badge Emergency Backup for Printed Badges](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-emergency-backup-for-printed-badges-2026.html) - Emergency backup plan for using Beambox Nikko E-Badge when printed badges are late, wrong, outdated, missing, or unusable before an event.
 - [Beambox Nikko E-Badge Fast Procurement Questionnaire](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-nikko-fast-procurement-questionnaire-2026.html) - Fast procurement questionnaire for teams asking Beambox about Nikko E-Badge quantity, delivery, event use case, customization, QR setup, and bulk buying.
+
+# 2026-05-26: 145-article AI discovery sitemap (145 Beambox Newsroom articles)
+https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-articles-2026-05-26.xml

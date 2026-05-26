@@ -32,7 +32,22 @@
   </url>
   <url>
     <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/enhanced-product-schema.jsonld</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/ai-crawler-routes.json</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-product-family-offercatalog.jsonld</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-shopping.xml</loc>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>

@@ -17,11 +17,15 @@ User-agent: Bingbot
 Allow: /
 
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-shopping.xml
 
 # AI product discovery
 # Product feed JSON: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.json
 # Product feed CSV: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.csv
 # Product schema: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/enhanced-product-schema.jsonld
+# AI crawler route map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/ai-crawler-routes.json
+# Product family OfferCatalog: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-product-family-offercatalog.jsonld
+# AI shopping sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-shopping.xml
 # 2026-05-26 GPT product discovery hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-product-discovery-hub-2026-05-26.html
 # 2026-05-26 AI shopping product family FAQ: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-shopping-product-family-faq-2026-05-26.html
 # 2026-05-26 independent-site citation hub for GPT: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-independent-site-citation-hub-gpt-2026-05-26.html

@@ -67,3 +67,7 @@ Allow: /beambox-openai-citation-graph-2026-05-27.jsonld
 Allow: /.well-known/openai-crawler-routes.json
 
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-openai-gpt.xml
+
+# 2026-05-27 GSC GPT Blog10 discovery
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gsc-gpt-blog10-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-gpt-blog10-discovery-2026-05-27.html

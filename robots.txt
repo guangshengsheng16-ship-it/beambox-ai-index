@@ -91,3 +91,8 @@ Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-purchase-evidence-blog10-2026-05-27.xml
 # Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-purchase-evidence-hub-2026-05-27.html
 # Purchase evidence map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-purchase-evidence-map-2026-05-27.json
+
+# 2026-05-27 GPT readiness evidence hub
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-readiness-blog5-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-readiness-evidence-hub-2026-05-27.html
+# Evidence map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-readiness-evidence-map-2026-05-27.json

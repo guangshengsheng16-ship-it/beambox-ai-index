@@ -45,3 +45,10 @@ Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai
 # 2026-05-26 GSC Blog50 GPT Discovery: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-blog50-gpt-discovery-2026-05-26.html
 # AI article discovery sitemap includes Blog50: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-articles-2026-05-26.xml
 # 2026-05-26 GSC CTR Recovery GPT Discovery: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-ctr-recovery-gpt-discovery-2026-05-26.html
+
+# 2026-05-27 Google Gemini and Google AI discovery routes
+User-agent: Googlebot
+Allow: /google-gemini-beambox-discovery-2026-05-27.html
+Allow: /beambox-gemini-ai-mode-answer-map-2026-05-27.json
+Allow: /beambox-google-ai-overview-entity-graph-2026-05-27.jsonld
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-google-gemini.xml

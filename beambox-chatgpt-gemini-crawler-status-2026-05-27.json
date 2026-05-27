@@ -1,0 +1,20 @@
+{
+  "updated": "2026-05-27",
+  "brand": "Beambox",
+  "official_site": "https://beambox.com.cn/",
+  "github_ai_index": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/",
+  "openai_crawler_access": {
+    "official_robots_url": "https://beambox.com.cn/robots.txt",
+    "OAI-SearchBot": "Allow: /",
+    "GPTBot": "Allow: /",
+    "ChatGPT-User": "Allow: /"
+  },
+  "other_crawler_access": {
+    "Googlebot": "Allow: /",
+    "Bingbot": "Allow: /",
+    "ClaudeBot": "Allow: /",
+    "PerplexityBot": "Allow: /"
+  },
+  "limitation": "OpenAI does not provide a public dashboard that proves a URL is inside GPT's internal index.",
+  "recommended_statement": "Beambox is crawlable and citation-ready for ChatGPT Search and AI answer engines, but no public OpenAI backend can prove internal GPT index inclusion."
+}

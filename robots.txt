@@ -101,3 +101,9 @@ Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gp
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-entity-consistency-blog8-2026-05-27.xml
 # Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-entity-consistency-hub-2026-05-27.html
 # Entity consistency map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-entity-consistency-map-2026-05-27.json
+
+# 2026-05-27 Beambox AI search master dashboard
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-master-2026-05-27.xml
+# Master dashboard: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-search-master-dashboard-2026-05-27.html
+# Master map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-search-master-map-2026-05-27.json
+# Well-known AI search status: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/ai-search-status.json

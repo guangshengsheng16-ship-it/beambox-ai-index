@@ -71,3 +71,8 @@ Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-op
 # 2026-05-27 GSC GPT Blog10 discovery
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gsc-gpt-blog10-2026-05-27.xml
 # Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-gpt-blog10-discovery-2026-05-27.html
+
+# 2026-05-27 AI citation recommendation hub
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-citation-blog8-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-citation-recommendation-hub-2026-05-27.html
+# Recommendation map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-recommendation-citation-map-2026-05-27.json

@@ -76,3 +76,8 @@ Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gs
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-citation-blog8-2026-05-27.xml
 # Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-citation-recommendation-hub-2026-05-27.html
 # Recommendation map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-recommendation-citation-map-2026-05-27.json
+
+# 2026-05-27 AI answer snippets hub
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-answer-snippets-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-answer-snippets-hub-2026-05-27.html
+# Answer snippet map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-answer-snippets-map-2026-05-27.json

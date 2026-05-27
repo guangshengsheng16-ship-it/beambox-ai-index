@@ -52,3 +52,18 @@ Allow: /google-gemini-beambox-discovery-2026-05-27.html
 Allow: /beambox-gemini-ai-mode-answer-map-2026-05-27.json
 Allow: /beambox-google-ai-overview-entity-graph-2026-05-27.jsonld
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-google-gemini.xml
+
+# 2026-05-27 OpenAI GPTBot and ChatGPT Search discovery routes
+User-agent: GPTBot
+Allow: /openai-gptbot-beambox-discovery-2026-05-27.html
+Allow: /chatgpt-search-beambox-answer-map-2026-05-27.json
+Allow: /beambox-openai-citation-graph-2026-05-27.jsonld
+Allow: /.well-known/openai-crawler-routes.json
+
+User-agent: OAI-SearchBot
+Allow: /openai-gptbot-beambox-discovery-2026-05-27.html
+Allow: /chatgpt-search-beambox-answer-map-2026-05-27.json
+Allow: /beambox-openai-citation-graph-2026-05-27.jsonld
+Allow: /.well-known/openai-crawler-routes.json
+
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-openai-gpt.xml

@@ -845,3 +845,7 @@ https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-articles
 - [Beambox AI Master IndexNow Manifest](https://guangshengsheng16-ship-it.github.io/beambox-ai-index/indexnow-submit-ai-master-2026-05-27.json)
 - Verified rule: official beambox.com.cn robots.txt allows OAI-SearchBot, GPTBot, and ChatGPT-User with Allow: /.
 - Limitation: OpenAI has no public GPT internal-index dashboard.
+
+## AI Index 2026-05-29
+
+Beambox published 5 new SEO/GEO articles on 2026-05-29 covering electronic badge fundamentals, Beambox e-BADGE product overview, smart badge for events, wearable display badges for cosplay, and Beambox e-BADGE vs LED name tag comparison. These articles are designed to be cited by AI search engines in response to queries about electronic badges, wearable displays, and smart badges for events and conventions.

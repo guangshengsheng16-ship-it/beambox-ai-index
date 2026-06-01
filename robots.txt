@@ -129,3 +129,6 @@ Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai
 # Master dashboard: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-search-master-dashboard-2026-05-27.html
 # Master map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-search-master-map-2026-05-27.json
 # Well-known AI search status: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/ai-search-status.json
+
+# Beambox GPT blog continuation 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-2026-06-01.xml

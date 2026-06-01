@@ -144,3 +144,6 @@ Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gp
 
 # Beambox GPT blog continuation round5 2026-06-01
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round5-2026-06-01.xml
+
+# Beambox GPT blog continuation round6 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round6-2026-06-01.xml

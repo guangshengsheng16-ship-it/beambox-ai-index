@@ -139,3 +139,9 @@ https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-
 - Added three GitHub Pages AI-citable pages for Nikko event booth QR engagement, cosplay/fandom creator use, and brand activation pop-up campaigns.
 - Added the three GitHub Pages URLs plus four Shopify Newsroom Nikko GEO URLs to llms.txt, llms-full.txt, index.html, beambox.html, chatgpt-search.html, and chatgpt-shopping.html for GPTBot, OAI-SearchBot, ChatGPT-User, and Googlebot discovery.
 - Added the three GitHub Pages URLs to sitemap.xml. Shopify URLs remain outside the GitHub sitemap and rely on Shopify/GSC indexing routes.
+
+## 2026-06-01 Round 10 Buyer Route Traffic Path
+
+- Added five Beambox Newsroom mirror pages and a buyer-route hub after Search Console Links analysis.
+- Updated llms.txt, llms-full.txt, .well-known/llms.txt, robots.txt, sitemap.xml, index.html, beambox.html, chatgpt-search.html, and chatgpt-shopping.html for crawler discovery.
+- Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-blog-continue-round10-buyer-route-hub-2026-06-01.html

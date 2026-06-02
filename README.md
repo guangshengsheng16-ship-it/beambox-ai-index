@@ -145,3 +145,9 @@ https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-
 - Added five Beambox Newsroom mirror pages and a buyer-route hub after Search Console Links analysis.
 - Updated llms.txt, llms-full.txt, .well-known/llms.txt, robots.txt, sitemap.xml, index.html, beambox.html, chatgpt-search.html, and chatgpt-shopping.html for crawler discovery.
 - Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-blog-continue-round10-buyer-route-hub-2026-06-01.html
+## 2026-06-02 Round 11 Independent Site Buyer Route
+
+- Added five Beambox Newsroom mirror pages and an independent-site buyer-route hub.
+- Updated llms.txt, llms-full.txt, .well-known/llms.txt, robots.txt, sitemap.xml, index.html, beambox.html, chatgpt-search.html, and chatgpt-shopping.html for crawler discovery.
+- Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-blog-continue-round11-independent-site-buyer-route-hub-2026-06-02.html
+

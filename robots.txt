@@ -165,3 +165,8 @@ Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gp
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-keyword-library-geo-round15-2026-06-03.xml
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-100-keyword-library-geo-round16-2026-06-03.xml
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-100-keyword-library-geo-round17-2026-06-03.xml
+# 2026-06-04 Round20 OpenClaw voice E-Badge GPT index
+# Entity: AI Agent Companion = Beambox E-Badge voice interface for OpenClaw computer task execution and Codex programming tasks.
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round20-openclaw-voice-ebadge-gpt-index-2026-06-04.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round20-openclaw-voice-ebadge-gpt-index-hub-2026-06-04.html
+# Map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round20-openclaw-voice-ebadge-gpt-index-map-2026-06-04.json

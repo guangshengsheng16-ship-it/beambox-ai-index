@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T18:30:00+08:00",
+  "updated": "2026-06-08T15:21:00+08:00",
   "brand": "Beambox",
   "audience": [
     "GPTBot",
@@ -29,7 +29,10 @@
     "round21_openclaw_voice_prompts_image_sitemap": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round21-openclaw-voice-prompts-image-gpt-index-2026-06-04.xml",
     "round22_100_openclaw_voice_gsc_hub": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round22-100-openclaw-voice-gsc-gpt-index-hub-2026-06-04.html",
     "round22_100_openclaw_voice_gsc_map": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round22-100-openclaw-voice-gsc-gpt-index-map-2026-06-04.json",
-    "round22_100_openclaw_voice_gsc_sitemap": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round22-100-openclaw-voice-gsc-gpt-index-2026-06-04.xml"
+    "round22_100_openclaw_voice_gsc_sitemap": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round22-100-openclaw-voice-gsc-gpt-index-2026-06-04.xml",
+    "round23_github_gpt_hub": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round23-github-gpt-index-hub-2026-06-08.html",
+    "round23_github_gpt_map": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round23-github-gpt-index-map-2026-06-08.json",
+    "round23_github_gpt_sitemap": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round23-github-gpt-index-2026-06-08.xml"
   },
   "canonical_routes": {
     "official_site": "https://beambox.com.cn",

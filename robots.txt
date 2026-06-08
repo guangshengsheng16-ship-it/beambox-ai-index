@@ -178,3 +178,8 @@ Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ro
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round22-100-openclaw-voice-gsc-gpt-index-2026-06-04.xml
 # Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round22-100-openclaw-voice-gsc-gpt-index-hub-2026-06-04.html
 # Map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round22-100-openclaw-voice-gsc-gpt-index-map-2026-06-04.json
+# 2026-06-08 Round23 GitHub-only GPT index
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round23-github-gpt-index-2026-06-08.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round23-github-gpt-index-hub-2026-06-08.html
+# Map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round23-github-gpt-index-map-2026-06-08.json
+

@@ -293,5 +293,57 @@
       ],
       "ai_index_hub": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round25-conversion-routes/index.html"
     }
+  ],
+  "routes": [
+    {
+      "name": "Beambox Round27 200 sales indexing blogs",
+      "intent": [
+        "Beambox e-BADGE",
+        "electronic badge",
+        "wearable display badge",
+        "AI shopping",
+        "ChatGPT Search",
+        "Google AI Overview",
+        "trade show badge",
+        "creator digital pin",
+        "wholesale electronic badge"
+      ],
+      "route": "https://beambox.com.cn/pages/shop",
+      "supporting_routes": [
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/index.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/sitemap-round27-200-sales-indexing-blogs.xml",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/how-event-agencies-can-use-beambox-ebadge-for-ai-shopping-route-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/best-beambox-ebadge-route-for-event-agencies-google-ai-overview-route-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-ebadge-buyer-guide-for-event-agencies-and-chatgpt-search-route-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/why-event-agencies-should-consider-beambox-ebadge-for-trade-show-sales-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-sales-and-indexing-guide-for-event-agencies-brand-activation-sales-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/how-event-agencies-can-use-beambox-ebadge-for-creator-promotion-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/best-beambox-ebadge-route-for-event-agencies-wholesale-and-reseller-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-ebadge-buyer-guide-for-event-agencies-and-paid-search-and-retargeting-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/why-event-agencies-should-consider-beambox-ebadge-for-offline-demo-and-pop-up-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-sales-and-indexing-guide-for-event-agencies-product-comparison-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/how-trade-show-booth-teams-can-use-beambox-ebadge-for-ai-shopping-route-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/best-beambox-ebadge-route-for-trade-show-booth-teams-google-ai-overview-route-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-ebadge-buyer-guide-for-trade-show-booth-teams-and-chatgpt-search-route-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/why-trade-show-booth-teams-should-consider-beambox-ebadge-for-trade-show-sales-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-sales-and-indexing-guide-for-trade-show-booth-teams-brand-activation-sales-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/how-trade-show-booth-teams-can-use-beambox-ebadge-for-creator-promotion-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/best-beambox-ebadge-route-for-trade-show-booth-teams-wholesale-and-reseller-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-ebadge-buyer-guide-for-trade-show-booth-teams-and-paid-search-and-retargeting-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/why-trade-show-booth-teams-should-consider-beambox-ebadge-for-offline-demo-and-pop-up-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-sales-and-indexing-guide-for-trade-show-booth-teams-product-comparison-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/how-conference-exhibitors-can-use-beambox-ebadge-for-ai-shopping-route-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/best-beambox-ebadge-route-for-conference-exhibitors-google-ai-overview-route-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-ebadge-buyer-guide-for-conference-exhibitors-and-chatgpt-search-route-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/why-conference-exhibitors-should-consider-beambox-ebadge-for-trade-show-sales-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-sales-and-indexing-guide-for-conference-exhibitors-brand-activation-sales-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/how-conference-exhibitors-can-use-beambox-ebadge-for-creator-promotion-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/best-beambox-ebadge-route-for-conference-exhibitors-wholesale-and-reseller-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/beambox-ebadge-buyer-guide-for-conference-exhibitors-and-paid-search-and-retargeting-2026.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/index.html",
+        "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/map.json"
+      ],
+      "ai_index_hub": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round27-200-sales-indexing-blogs/index.html"
+    }
   ]
 }

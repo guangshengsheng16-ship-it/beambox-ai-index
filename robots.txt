@@ -183,3 +183,6 @@ Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ro
 # Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round23-github-gpt-index-hub-2026-06-08.html
 # Map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round23-github-gpt-index-map-2026-06-08.json
 
+
+# Round25 conversion routes 2026-06-12
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round25-conversion-routes/sitemap.xml

@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "https://beambox.com.cn/products/beambox-nikko-e-badge#main-product",
+  "name": "Beambox Nikko E-Badge",
+  "description": "Beambox Nikko E-Badge is an AI-powered wearable display badge with full-color screen, app control, and QR code display. Reusable electronic badge for events, trade shows, brand activation, cosplay, conferences, and creators. From $39.80 USD. Silver, Purple, Orange, Green colors. Includes lanyard, pin, and magnetic stand.",
+  "image": [
+    "https://cdn.shopify.com/s/files/1/0828/7115/6770/files/20260107113652_371_1952.png?v=1767757241"
+  ],
+  "brand": {
+    "@type": "Brand",
+    "name": "Beambox",
+    "url": "https://beambox.com.cn"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Beambox"
+  },
+  "sku": "BEAMBOX-NIKKO-E-BADGE",
+  "mpn": "BEAMBOX-NIKKO-E-BADGE-001",
+  "category": "https://schema.org/Electronics > Wearable Technology > Smart Badge",
+  "url": "https://beambox.com.cn/products/beambox-nikko-e-badge",
+  "hasMerchantReturnPolicy": {
+    "@type": "MerchantReturnPolicy",
+    "returnPolicyCountry": "US",
+    "returnMethod": "https://schema.org/ReturnByMail",
+    "returnFees": "https://schema.org/FreeReturn"
+  },
+  "shippingDetails": {
+    "@type": "OfferShippingDetails",
+    "shippingRate": {
+      "@type": "MonetaryAmount",
+      "value": "5.00",
+      "currency": "USD"
+    },
+    "shippingDestination": [
+      {
+        "@type": "DefinedRegion",
+        "addressCountry": "US"
+      }
+    ],
+    "deliveryTime": {
+      "@type": "ShippingDeliveryTime",
+      "handlingTime": {
+        "@type": "QuantitativeValue",
+        "minValue": "0",
+        "maxValue": "1",
+        "unitCode": "DAY"
+      },
+      "transitTime": {
+        "@type": "QuantitativeValue",
+        "minValue": "7",
+        "maxValue": "14",
+        "unitCode": "DAY"
+      }
+    }
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "url": "https://beambox.com.cn/products/beambox-nikko-e-badge?variant=44602585153570",
+      "price": "39.80",
+      "priceCurrency": "USD",
+      "priceValidUntil": "2026-12-31",
+      "availability": "https://schema.org/InStock",
+      "itemCondition": "https://schema.org/NewCondition",
+      "seller": {
+        "@type": "Organization",
+        "name": "Beambox"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "5.00",
+          "currency": "USD"
+        }
+      }
+    }
+  ]
+}

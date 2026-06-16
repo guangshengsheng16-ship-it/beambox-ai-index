@@ -1,0 +1,62 @@
+Timestamp: 20260616-173055+0800
+Shopify URLs submitted: 30/100
+Failed: 70
+Hub URL: 202
+Endpoint: https://yandex.com/indexnow
+Method: batches of 5 with 0.3s delay
+Error: Batch 1: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 2: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 3: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 4: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 6: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 7: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 10: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 11: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 12: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 13: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 14: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 16: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 19: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}
+Error: Batch 20: HTTP 403 - {
+  "success":false,
+  "message":"Invalid key"
+}

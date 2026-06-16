@@ -1,0 +1,10 @@
+HTTP/1.1 200 Connection established
+
+HTTP/1.1 403 Forbidden
+Transfer-Encoding: chunked
+Content-Type: application/json; charset=utf-8
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 60833BA7A27146509D4027DE7E1E1FDA Ref B: TYO601100910060 Ref C: 2026-06-14T07:31:40Z
+Date: Sun, 14 Jun 2026 07:31:41 GMT
+

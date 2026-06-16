@@ -1,0 +1,10 @@
+Status: 200
+Response: <!DOCTYPE html>
+<html lang="en-US">
+  <meta charset="utf-8">
+  <title>Redirecting&hellip;</title>
+  <link rel="canonical" href="https://www.indexnow.org">
+  <script>location="https://www.indexnow.org"
+Timestamp: 20260616-171520+0800
+URLs submitted: 100
+Endpoint: https://indexnow.org/indexnow

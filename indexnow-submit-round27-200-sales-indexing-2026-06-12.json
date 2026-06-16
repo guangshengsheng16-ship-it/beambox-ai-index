@@ -1,0 +1,13 @@
+{
+  "status": 200,
+  "reason": "OK",
+  "body": "",
+  "headers": {
+    "X-Cache": "CONFIG_NOCACHE",
+    "Accept-CH": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+    "X-MSEdge-Ref": "Ref A: FDB66603ED354701A5504D728F0A5BDC Ref B: BY1AA1072319031 Ref C: 2026-06-12T02:33:27Z",
+    "Date": "Fri, 12 Jun 2026 02:33:27 GMT",
+    "Connection": "close",
+    "Content-Length": "0"
+  }
+}

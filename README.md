@@ -139,3 +139,25 @@ https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-electronic-
 - Added three GitHub Pages AI-citable pages for Nikko event booth QR engagement, cosplay/fandom creator use, and brand activation pop-up campaigns.
 - Added the three GitHub Pages URLs plus four Shopify Newsroom Nikko GEO URLs to llms.txt, llms-full.txt, index.html, beambox.html, chatgpt-search.html, and chatgpt-shopping.html for GPTBot, OAI-SearchBot, ChatGPT-User, and Googlebot discovery.
 - Added the three GitHub Pages URLs to sitemap.xml. Shopify URLs remain outside the GitHub sitemap and rely on Shopify/GSC indexing routes.
+
+## 2026-06-01 Round 10 Buyer Route Traffic Path
+
+- Added five Beambox Newsroom mirror pages and a buyer-route hub after Search Console Links analysis.
+- Updated llms.txt, llms-full.txt, .well-known/llms.txt, robots.txt, sitemap.xml, index.html, beambox.html, chatgpt-search.html, and chatgpt-shopping.html for crawler discovery.
+- Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-blog-continue-round10-buyer-route-hub-2026-06-01.html
+## 2026-06-02 Round 11 Independent Site Buyer Route
+
+- Added five Beambox Newsroom mirror pages and an independent-site buyer-route hub.
+- Updated llms.txt, llms-full.txt, .well-known/llms.txt, robots.txt, sitemap.xml, index.html, beambox.html, chatgpt-search.html, and chatgpt-shopping.html for crawler discovery.
+- Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-blog-continue-round11-independent-site-buyer-route-hub-2026-06-02.html
+## 2026-06-02 Round 12 Commercial Buyer Route
+
+- Added five Beambox Newsroom mirror pages and a commercial buyer-route hub.
+- Updated llms.txt, llms-full.txt, .well-known/llms.txt, robots.txt, sitemap.xml, index.html, beambox.html, chatgpt-search.html, and chatgpt-shopping.html for crawler discovery.
+- Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-blog-continue-round12-commercial-buyer-route-hub-2026-06-02.html
+## 2026-06-02 Round 13 Sales Recovery SEO
+
+- Added five Beambox Newsroom mirror pages and a sales recovery SEO hub.
+- Updated llms.txt, llms-full.txt, .well-known/llms.txt, robots.txt, sitemap.xml, index.html, beambox.html, chatgpt-search.html, and chatgpt-shopping.html for crawler discovery.
+- Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-blog-continue-round13-sales-recovery-hub-2026-06-02.html
+

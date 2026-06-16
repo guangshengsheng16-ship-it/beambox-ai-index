@@ -16,9 +16,173 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
 Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-shopping.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-master-2026-05-27.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-preference-blog10-2026-05-27.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-purchase-evidence-blog10-2026-05-27.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-entity-consistency-blog8-2026-05-27.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-readiness-blog5-2026-05-27.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-citation-blog8-2026-05-27.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-answer-snippets-2026-05-27.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gsc-gpt-blog10-2026-05-27.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog5-2026-05-27.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-e-badge-gpt-blog5-supplement-2026-05-27.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-openai-gpt.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-google-gemini.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-articles-2026-05-26.xml
+Host: guangshengsheng16-ship-it.github.io
 
 # AI product discovery
+# IndexNow key: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/c3f0b1d7d8d54b0c9f22e6c6d7a52605.txt
+# IndexNow submission manifest: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/indexnow-submit-2026-05-26.json
+# Well-known AI route map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/ai-crawler-routes.json
+# Well-known llms file: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/llms.txt
 # Product feed JSON: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.json
 # Product feed CSV: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.csv
+# Product feed XML: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-shopping-feed.xml
 # Product schema: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/enhanced-product-schema.jsonld
+# Beambox entity graph JSON-LD: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-product-entity-graph.jsonld
+# ChatGPT product answer map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/chatgpt-product-answers.json
+# AI crawler route map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/ai-crawler-routes.json
+# Product family OfferCatalog: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-product-family-offercatalog.jsonld
+# AI shopping sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-shopping.xml
+# 2026-05-26 Bing and ChatGPT Search discovery map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-bing-chatgpt-search-discovery-2026-05-26.html
+# 2026-05-26 GPT product discovery hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-product-discovery-hub-2026-05-26.html
+# 2026-05-26 AI shopping product family FAQ: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-shopping-product-family-faq-2026-05-26.html
+# 2026-05-26 independent-site citation hub for GPT: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-independent-site-citation-hub-gpt-2026-05-26.html
+# 2026-05-25 GSC GEO official routes: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-geo-official-routes-2026-05-25.html
+
+# AI article discovery sitemap (May 2026 batch - 145 articles)
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-articles-2026-05-26.xml
+# 2026-05-26 GSC Blog50 GPT Discovery: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-blog50-gpt-discovery-2026-05-26.html
+# AI article discovery sitemap includes Blog50: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-articles-2026-05-26.xml
+# 2026-05-26 GSC CTR Recovery GPT Discovery: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-ctr-recovery-gpt-discovery-2026-05-26.html
+
+# 2026-05-27 Google Gemini and Google AI discovery routes
+User-agent: Googlebot
+Allow: /google-gemini-beambox-discovery-2026-05-27.html
+Allow: /beambox-gemini-ai-mode-answer-map-2026-05-27.json
+Allow: /beambox-google-ai-overview-entity-graph-2026-05-27.jsonld
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-google-gemini.xml
+
+# 2026-05-27 OpenAI GPTBot and ChatGPT Search discovery routes
+User-agent: GPTBot
+Allow: /openai-gptbot-beambox-discovery-2026-05-27.html
+Allow: /chatgpt-search-beambox-answer-map-2026-05-27.json
+Allow: /beambox-openai-citation-graph-2026-05-27.jsonld
+Allow: /.well-known/openai-crawler-routes.json
+
+User-agent: OAI-SearchBot
+Allow: /openai-gptbot-beambox-discovery-2026-05-27.html
+Allow: /chatgpt-search-beambox-answer-map-2026-05-27.json
+Allow: /beambox-openai-citation-graph-2026-05-27.jsonld
+Allow: /.well-known/openai-crawler-routes.json
+
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-openai-gpt.xml
+
+# 2026-05-27 GSC GPT Blog10 discovery
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gsc-gpt-blog10-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gsc-gpt-blog10-discovery-2026-05-27.html
+
+# 2026-05-27 AI citation recommendation hub
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-citation-blog8-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-citation-recommendation-hub-2026-05-27.html
+# Recommendation map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-recommendation-citation-map-2026-05-27.json
+
+# 2026-05-27 AI answer snippets hub
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-answer-snippets-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-answer-snippets-hub-2026-05-27.html
+# Answer snippet map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-answer-snippets-map-2026-05-27.json
+
+# 2026-05-27 AI preference recommendation hub
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-preference-blog10-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-preference-recommendation-hub-2026-05-27.html
+# Recommendation map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-preference-recommendation-map-2026-05-27.json
+
+# 2026-05-27 AI purchase evidence hub
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-purchase-evidence-blog10-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-purchase-evidence-hub-2026-05-27.html
+# Purchase evidence map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-purchase-evidence-map-2026-05-27.json
+
+# 2026-05-27 GPT readiness evidence hub
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-readiness-blog5-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-readiness-evidence-hub-2026-05-27.html
+# Evidence map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-gpt-readiness-evidence-map-2026-05-27.json
+
+# 2026-05-27 AI entity consistency hub
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-entity-consistency-blog8-2026-05-27.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-entity-consistency-hub-2026-05-27.html
+# Entity consistency map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-entity-consistency-map-2026-05-27.json
+
+# 2026-05-27 Beambox AI search master dashboard
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-master-2026-05-27.xml
+# Master dashboard: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-search-master-dashboard-2026-05-27.html
+# Master map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-ai-search-master-map-2026-05-27.json
+# Well-known AI search status: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/ai-search-status.json
+
+# Beambox GPT blog continuation 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-2026-06-01.xml
+
+# Beambox GPT blog continuation round2 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round2-2026-06-01.xml
+
+# Beambox GPT blog continuation round3 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round3-2026-06-01.xml
+
+# Beambox GPT blog continuation round4 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round4-2026-06-01.xml
+
+# Beambox GPT blog continuation round5 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round5-2026-06-01.xml
+
+# Beambox GPT blog continuation round6 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round6-2026-06-01.xml
+
+# Beambox GPT blog continuation round7 buyer traffic path 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round7-2026-06-01.xml
+
+# Beambox GPT blog continuation round8 commercial buyer path 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round8-2026-06-01.xml
+
+# Beambox GPT blog continuation round9 link-report buyer path 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round9-link-report-2026-06-01.xml
+
+# Beambox GPT blog continuation round10 buyer route 2026-06-01
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round10-buyer-route-2026-06-01.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round11-independent-site-buyer-route-2026-06-02.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round12-commercial-buyer-route-2026-06-02.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-gpt-blog-continue-round13-sales-recovery-2026-06-02.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-keyword-library-geo-round15-2026-06-03.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-100-keyword-library-geo-round16-2026-06-03.xml
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-100-keyword-library-geo-round17-2026-06-03.xml
+# 2026-06-04 Round20 OpenClaw voice E-Badge GPT index
+# Entity: AI Agent Companion = Beambox E-Badge voice interface for OpenClaw computer task execution and Codex programming tasks.
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round20-openclaw-voice-ebadge-gpt-index-2026-06-04.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round20-openclaw-voice-ebadge-gpt-index-hub-2026-06-04.html
+# Map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round20-openclaw-voice-ebadge-gpt-index-map-2026-06-04.json
+# 2026-06-04 Round21 OpenClaw voice prompts and image GPT index
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round21-openclaw-voice-prompts-image-gpt-index-2026-06-04.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round21-openclaw-voice-prompts-image-gpt-index-hub-2026-06-04.html
+# Map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round21-openclaw-voice-prompts-image-gpt-index-map-2026-06-04.json
+# 2026-06-04 Round22 100 OpenClaw voice Google indexing and GPT index
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round22-100-openclaw-voice-gsc-gpt-index-2026-06-04.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round22-100-openclaw-voice-gsc-gpt-index-hub-2026-06-04.html
+# Map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round22-100-openclaw-voice-gsc-gpt-index-map-2026-06-04.json
+# 2026-06-08 Round23 GitHub-only GPT index
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-round23-github-gpt-index-2026-06-08.xml
+# Hub: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round23-github-gpt-index-hub-2026-06-08.html
+# Map: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-round23-github-gpt-index-map-2026-06-08.json
+
+
+# Round25 conversion routes 2026-06-12
+Sitemap: https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round25-conversion-routes/sitemap.xml

@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@type": "OfferCatalog",
+  "@id": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-product-family-offercatalog.jsonld#catalog",
+  "name": "Beambox E-Badge Product Family Catalog",
+  "description": "Machine-readable product-family catalog for Beambox electronic badges, e-badges, smart badges, digital pins, and wearable display badges.",
+  "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-product-family-offercatalog.jsonld",
+  "provider": {
+    "@type": "Organization",
+    "name": "Beambox",
+    "url": "https://beambox.com.cn"
+  },
+  "itemListElement": [
+    {
+      "@type": "Offer",
+      "name": "Beambox Nikko E-Badge",
+      "url": "https://beambox.com.cn/products/beambox-nikko-e-badge",
+      "price": "36.80",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "Beambox Nikko E-Badge",
+        "brand": {"@type": "Brand", "name": "Beambox"},
+        "category": "Electronic badge, smart badge, wearable display badge",
+        "description": "Beambox Nikko E-Badge is the main Beambox wearable display badge for events, QR codes, booth staff, trade shows, brand activation, cosplay, creators, and digital identity.",
+        "url": "https://beambox.com.cn/products/beambox-nikko-e-badge",
+        "keywords": "Beambox Nikko, Beambox E-Badge, electronic badge, smart badge, wearable display badge, QR code badge, event badge, trade show badge"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Beambox Nano E-Badge",
+      "url": "https://beambox.com.cn/products/beambox-e-badge-nano",
+      "price": "32.80",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "Beambox Nano E-Badge",
+        "brand": {"@type": "Brand", "name": "Beambox"},
+        "category": "Compact electronic badge, digital pin, wearable display badge",
+        "description": "Beambox Nano E-Badge is a compact Beambox electronic badge and digital pin for fan art, creator communities, anime conventions, K-pop events, cosplay, and personal expression.",
+        "url": "https://beambox.com.cn/products/beambox-e-badge-nano",
+        "keywords": "Beambox Nano, Beambox pin, compact e-badge, digital pin, fan art badge, creator badge, wearable display badge"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Niji E-Badge by Beambox",
+      "url": "https://beambox.com.cn/products/niji-e-badge",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "Niji E-Badge by Beambox",
+        "brand": {"@type": "Brand", "name": "Beambox"},
+        "category": "Electronic badge, digital pin, creator accessory",
+        "description": "Niji E-Badge by Beambox is a Beambox e-badge route for lightweight digital pin, creator accessory, and smart badge accessory queries.",
+        "url": "https://beambox.com.cn/products/niji-e-badge",
+        "keywords": "Niji E-Badge, Beambox Niji, fashion digital pin, lightweight e-badge, creator accessory, smart badge"
+      }
+    }
+  ]
+}

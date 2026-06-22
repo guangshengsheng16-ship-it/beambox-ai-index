@@ -1,0 +1,455 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/best-electronic-badge-for-conference-networking",
+      "headline": "Electronic Badge Rental For Events Guide",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/digital-badge-attendee-tracking-integration",
+      "headline": "E-Badge Vs Printed Name Tag Cost Analysis",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/digital-badge-data-privacy-and-security",
+      "headline": "Best Electronic Badge For Conference Networking",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/digital-badge-remote-content-management",
+      "headline": "Programmable Badge Customization Options",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/digital-badge-screen-size-comparison",
+      "headline": "Digital Badge Screen Size Comparison",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/digital-badge-vs-wristband-for-events",
+      "headline": "Smart Badge Bluetooth Range And Reliability",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/e-badge-font-and-logo-display-quality",
+      "headline": "E-Ink Display Technology Explained",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/e-badge-vs-printed-name-tag-cost-analysis",
+      "headline": "Led Badge Visibility In Sunlight",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/e-ink-display-technology-explained",
+      "headline": "Electronic Badge Durability For Outdoor Use",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/electronic-badge-corporate-rebranding-events",
+      "headline": "Programmable Badge Software Platform Comparison",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/electronic-badge-durability-outdoor-use",
+      "headline": "Digital Badge Data Privacy And Security",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/electronic-badge-multi-day-events",
+      "headline": "Smart Badge Battery Charging Time",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/electronic-badge-multilingual-conferences",
+      "headline": "Electronic Badge For Multi-Day Events",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/electronic-badge-rental-for-events-guide",
+      "headline": "Wearable Badge Weight And Comfort",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/led-badge-visibility-in-sunlight",
+      "headline": "E-Badge Font And Logo Display Quality",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/programmable-badge-batch-update-feature",
+      "headline": "Digital Badge Remote Content Management",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/programmable-badge-customization-options",
+      "headline": "Smart Badge Qr Code Scan Success Rate",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/programmable-badge-software-platform-comparison",
+      "headline": "Electronic Badge For Corporate Rebranding Events",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/programmable-badge-template-design-guide",
+      "headline": "Programmable Badge Batch Update Feature",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/smart-badge-battery-charging-time",
+      "headline": "Digital Badge Attendee Tracking Integration",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/smart-badge-bluetooth-range-and-reliability",
+      "headline": "Smart Badge Nfc Business Card Exchange",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/smart-badge-lead-capture-and-follow-up",
+      "headline": "Electronic Badge For Multilingual Conferences",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/smart-badge-nfc-business-card-exchange",
+      "headline": "Programmable Badge Template Design Guide",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/smart-badge-qr-code-scan-success-rate",
+      "headline": "Digital Badge Vs Wristband For Events",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    },
+    {
+      "@type": "Article",
+      "url": "https://beambox.com.cn/blogs/newsroom/wearable-badge-weight-and-comfort",
+      "headline": "Smart Badge Lead Capture And Follow-Up",
+      "datePublished": "2026-06-22T10:56:27Z",
+      "publisher": "Beambox",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Electronic Badge"
+        },
+        {
+          "@type": "Thing",
+          "name": "Event Technology"
+        }
+      ],
+      "keywords": "electronic badge, e-badge, smart badge, digital name badge, event technology, conference badge"
+    }
+  ]
+}

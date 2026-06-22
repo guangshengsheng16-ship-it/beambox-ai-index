@@ -1,10 +1,14 @@
 {
-  "updated": "2026-05-26T10:10:00+08:00",
+  "updated": "2026-06-22T16:45:00+08:00",
   "brand": "Beambox",
   "official_site": "https://beambox.com.cn",
   "purpose": "Well-known AI crawler discovery pointer for GPTBot, OAI-SearchBot, ChatGPT Search, AI shopping crawlers, Bing, Google, and answer engines.",
   "canonical_route_map": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/ai-crawler-routes.json",
+  "official_llms_txt": "https://beambox.com.cn/llms.txt",
+  "official_agents_md": "https://beambox.com.cn/agents.md",
   "llms_txt": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/llms.txt",
+  "agents_md": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/agents.md",
+  "well_known_agents_md": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/.well-known/agents.md",
   "llms_full": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/llms-full.txt",
   "ai_shopping_sitemap": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap-ai-shopping.xml",
   "product_feed_json": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-product-feed.json",
@@ -14,6 +18,8 @@
     "https://beambox.com.cn/products/beambox-nikko-e-badge",
     "https://beambox.com.cn/products/beambox-e-badge-nano",
     "https://beambox.com.cn/products/niji-e-badge",
-    "https://beambox.com.cn/pages/shop"
+    "https://beambox.com.cn/pages/shop",
+    "https://beambox.com.cn/llms.txt",
+    "https://beambox.com.cn/agents.md"
   ]
 }

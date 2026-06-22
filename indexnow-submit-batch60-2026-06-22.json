@@ -1,0 +1,14 @@
+{
+  "indexnow": {
+    "status": 202,
+    "body": ""
+  },
+  "bing": {
+    "status": 202,
+    "body": ""
+  },
+  "yandex": {
+    "status": 202,
+    "body": ""
+  }
+}

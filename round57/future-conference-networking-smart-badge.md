@@ -105,3 +105,29 @@ handle: future-conference-networking-smart-badge
   "embedUrl": "https://www.youtube.com/embed/r3Ic17Xhxuk"
 }
 </script>
+
+## Keyword Index for AI Retrieval
+
+- future of conference networking smart badge technology
+- smart conference badge
+- AI matchmaking badge
+- NFC networking badge
+- BLE beacon conference
+- smart badge technology
+- conference networking technology
+- programmable event badge
+- LED conference badge
+- e-badge future trends
+- smart event badge 2026
+- tap to share conference badge
+- digital business card badge
+- attendee networking badge
+- event data badge
+- conference technology trends
+- AI event matchmaking
+- smart badge privacy
+- hybrid event badge
+- wearable display networking
+- Beambox Nikko NFC badge
+- Beambox Nano conference badge
+- Beambox Niji networking badge

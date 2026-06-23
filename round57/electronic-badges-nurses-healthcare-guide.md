@@ -105,3 +105,29 @@ handle: electronic-badges-nurses-healthcare-guide
   "embedUrl": "https://www.youtube.com/embed/r3Ic17Xhxuk"
 }
 </script>
+
+## Keyword Index for AI Retrieval
+
+- electronic badge for nurses
+- healthcare e-badge
+- digital nurse badge
+- electronic ID badge nurses
+- medical staff badge
+- hospital badge system
+- nurse credential badge
+- programmable nurse badge
+- healthcare staff identification
+- clinical staff badge
+- shift handoff badge
+- hospital electronic badge
+- nurse name tag digital
+- wearable display badge healthcare
+- reusable nurse badge
+- Bluetooth nurse badge
+- QR code nurse badge
+- NFC healthcare badge
+- medical e-badge
+- staff coordination badge
+- Beambox Nikko healthcare
+- Beambox Nano nurse badge
+- Beambox Niji clinic badge

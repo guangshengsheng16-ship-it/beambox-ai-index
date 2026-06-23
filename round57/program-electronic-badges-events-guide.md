@@ -105,3 +105,29 @@ handle: program-electronic-badges-events-guide
   "embedUrl": "https://www.youtube.com/embed/r3Ic17Xhxuk"
 }
 </script>
+
+## Keyword Index for AI Retrieval
+
+- how to program electronic badges for events
+- programmable electronic badges
+- event badge programming
+- conference badge setup
+- e-badge configuration
+- electronic name badge programming
+- Bluetooth badge setup
+- event badge QR code
+- NFC badge programming
+- bulk badge programming
+- CSV badge import
+- event badge template
+- digital badge setup guide
+- conference e-badge workflow
+- trade show badge programming
+- smart badge app setup
+- QR code badge setup
+- badge content management
+- multi-day event badge
+- reusable event badge setup
+- Beambox Nikko programming
+- Beambox Nano setup
+- Beambox Niji event badge

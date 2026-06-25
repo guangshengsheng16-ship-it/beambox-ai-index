@@ -1,0 +1,20 @@
+HTTP/1.1 200 Connection established
+
+HTTP/2 202 
+accept-ch: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Sec-CH-Viewport-Width, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width, Sec-Ch-Viewport-Height
+x-content-type-options: nosniff
+set-cookie: is_gdpr=0; Path=/; Domain=.yandex.com; Expires=Sat, 24 Jun 2028 03:21:14 GMT
+set-cookie: is_gdpr_b=COiHAhDOjAM=; Path=/; Domain=.yandex.com; Expires=Sat, 24 Jun 2028 03:21:14 GMT
+set-cookie: _yasc=FHmGlbEvG7elD4m+0N/2yAlnG8Y8r6CB8yQwthDG0L+od5xKsTtUvb6zXfJmEBuCtQ==; domain=.yandex.com; path=/; expires=Sun, 22 Jun 2036 03:21:14 GMT; secure
+set-cookie: pi=50xk5T5LNhuL6lucJ9hiLkYZ2N7kowoIv/d12bJXVUhFMwRVZbdg1jt+/doJY0cXYtDx3vQ1ZKSyt+aDzGcwqUPWYws=; Expires=Sat, 24-Jun-2028 03:21:14 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly; Partitioned
+set-cookie: i=j7mIhy5rVGLELl/FVsCoe2HGPXQ9CS7rDSfBbvEAK7CHTd/RsQqo+qXZfkqsMaGdX9+V+irvfO9rhvRaZj4R1CP9p/Y=; Expires=Sat, 24-Jun-2028 03:21:14 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly
+set-cookie: yandexuid=1516301971782357674; Expires=Sat, 24-Jun-2028 03:21:14 GMT; Domain=.yandex.com; Path=/; Secure
+set-cookie: yashr=9160762161782357674; Path=/; Domain=.yandex.com; Expires=Fri, 25 Jun 2027 03:21:14 GMT; Secure; HttpOnly; Partitioned
+set-cookie: bh=YKq98tEGagL/VQ==; Path=/; Domain=.yandex.com; Expires=Fri, 30 Jul 2027 03:21:14 GMT
+content-security-policy: default-src 'none'
+x-xss-protection: 1; mode=block
+report-to: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+nel: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+content-type: application/json; charset=utf-8
+x-yandex-req-id: 1782357674080334-17387845288251630197-balancer-l7leveler-kubr-yp-vla-173-BAL
+

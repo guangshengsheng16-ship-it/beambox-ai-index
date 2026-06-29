@@ -1,0 +1,92 @@
+{
+  "round65-giftcorporate-university/indexnow-payload.json": {
+    "live": [
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round65-giftcorporate-university/corporate-employee-badge-wearable-onboarding-guide-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round65-giftcorporate-university/conference-badge-system-buyer-guide-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round65-giftcorporate-university/university-event-badge-guide-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round65-giftcorporate-university/trade-show-exhibitor-badge-guide-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round65-giftcorporate-university/corporate-gift-wearable-tech-guide-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round65-giftcorporate-university/outdoor-badge-sunlight-readable-guide-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round65-giftcorporate-university/sitemap.xml",
+        "status": 200
+      }
+    ],
+    "submits": [
+      {
+        "endpoint": "api.indexnow.org",
+        "status": 200,
+        "body": ""
+      },
+      {
+        "endpoint": "bing",
+        "status": 200,
+        "body": ""
+      },
+      {
+        "endpoint": "yandex",
+        "status": 202,
+        "body": "{\n  \"success\":true\n}"
+      }
+    ]
+  },
+  "round66-events-university/indexnow-payload.json": {
+    "live": [
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round66-events-university/trade-show-badge-management-system-guide-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round66-events-university/campus-conference-badge-system-guide-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round66-events-university/corporate-summit-electronic-badge-guide-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round66-events-university/digital-name-badge-for-networking-events-guide-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round66-events-university/registration-badges-expo-guide-2026.html",
+        "status": 200
+      }
+    ],
+    "submits": [
+      {
+        "endpoint": "api.indexnow.org",
+        "status": 200,
+        "body": ""
+      },
+      {
+        "endpoint": "bing",
+        "status": 200,
+        "body": ""
+      },
+      {
+        "endpoint": "yandex",
+        "status": 202,
+        "body": "{\n  \"success\":true\n}"
+      }
+    ]
+  }
+}

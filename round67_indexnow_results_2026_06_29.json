@@ -1,0 +1,29 @@
+[
+  {
+    "endpoint": "api.indexnow.org",
+    "url": "https://api.indexnow.org/indexnow",
+    "status": 200,
+    "statusText": "OK",
+    "body": "",
+    "submittedUrls": 6,
+    "submittedAt": "2026-06-29T02:35:43.569Z"
+  },
+  {
+    "endpoint": "www.bing.com",
+    "url": "https://www.bing.com/indexnow",
+    "status": 200,
+    "statusText": "OK",
+    "body": "",
+    "submittedUrls": 6,
+    "submittedAt": "2026-06-29T02:35:44.397Z"
+  },
+  {
+    "endpoint": "yandex.com",
+    "url": "https://yandex.com/indexnow",
+    "status": 202,
+    "statusText": "Accepted",
+    "body": "{\n  \"success\":true\n}",
+    "submittedUrls": 6,
+    "submittedAt": "2026-06-29T02:35:45.594Z"
+  }
+]

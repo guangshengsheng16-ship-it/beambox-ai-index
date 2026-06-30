@@ -1,0 +1,61 @@
+{
+  "submittedAt": "2026-06-30T01:39:41.299Z",
+  "payload": {
+    "host": "guangshengsheng16-ship-it.github.io",
+    "key": "c3f0b1d7d8d54b0c9f22e6c6d7a52605",
+    "keyLocation": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/c3f0b1d7d8d54b0c9f22e6c6d7a52605.txt",
+    "urlList": [
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round70-video-first-watch-pages/watch-nikko-e-badge-product-tutorial-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round70-video-first-watch-pages/watch-beambox-app-setup-bluetooth-badge-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round70-video-first-watch-pages/watch-gif-badge-anime-display-demo-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round70-video-first-watch-pages/sitemap.xml",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap.xml"
+    ]
+  },
+  "results": [
+    {
+      "name": "indexnow",
+      "url": "https://api.indexnow.org/indexnow",
+      "status": 200,
+      "headers": {
+        "x-cache": "CONFIG_NOCACHE",
+        "accept-ch": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+        "x-msedge-ref": "Ref A: D4979D9867EF4604BE706E67348C3272 Ref B: SG2AA1040517031 Ref C: 2026-06-30T01:39:39Z",
+        "date": "Tue, 30 Jun 2026 01:39:39 GMT",
+        "content-length": "0"
+      },
+      "body": ""
+    },
+    {
+      "name": "bing",
+      "url": "https://www.bing.com/indexnow",
+      "error": "Error: read ECONNRESET"
+    },
+    {
+      "name": "yandex",
+      "url": "https://yandex.com/indexnow",
+      "status": 202,
+      "headers": {
+        "content-type": "application/json; charset=utf-8",
+        "x-yandex-req-id": "1782783581289849-12961891858001849004-balancer-l7leveler-kubr-yp-klg-141-BAL",
+        "x-xss-protection": "1; mode=block",
+        "transfer-encoding": "chunked",
+        "report-to": "{ \"group\": \"network-errors\", \"max_age\": 100, \"endpoints\": [{\"url\": \"https://dr.yandex.net/nel\", \"priority\": 1}, {\"url\": \"https://dr2.yandex.net/nel\", \"priority\": 2}]}",
+        "x-content-type-options": "nosniff",
+        "nel": "{\"report_to\": \"network-errors\", \"max_age\": 100, \"success_fraction\": 0.001, \"failure_fraction\": 0.1}",
+        "set-cookie": [
+          "is_gdpr=0; Path=/; Domain=.yandex.com; Expires=Thu, 29 Jun 2028 01:39:41 GMT",
+          "is_gdpr_b=CM7iKRDEjQM=; Path=/; Domain=.yandex.com; Expires=Thu, 29 Jun 2028 01:39:41 GMT",
+          "_yasc=X04u0u1OLfVQH4veMeCzfpXNkOmRANZAsSzOc9Frx1XRARuv2isIU20T8smvaKW1fsm2; domain=.yandex.com; path=/; expires=Fri, 27 Jun 2036 01:39:41 GMT; secure",
+          "pi=4OejXfpvPvD1nVa/1QjPXuaRj4ejJHi5OTz6YSGdUma/DDR7n8W7EHHZ+qaKVCJDeYVVVLM2x8x+ncOdAcIrcjSdV0M=; Expires=Thu, 29-Jun-2028 01:39:41 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly; Partitioned",
+          "i=rguibWTX0U6J9NobCAtc5ywMBUkkzu+gI0FB4P1UQeop38N7KUoFJiE3B7rJCAbKOrv79fJGeU1ZFF9aUefct748f4Y=; Expires=Thu, 29-Jun-2028 01:39:41 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly",
+          "yandexuid=5018490041782783581; Expires=Thu, 29-Jun-2028 01:39:41 GMT; Domain=.yandex.com; Path=/; Secure",
+          "yashr=5863192471782783581; Path=/; Domain=.yandex.com; Expires=Wed, 30 Jun 2027 01:39:41 GMT; Secure; HttpOnly; Partitioned"
+        ],
+        "accept-ch": "Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Sec-CH-Viewport-Width, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width, Sec-Ch-Viewport-Height",
+        "content-security-policy": "default-src 'none'"
+      },
+      "body": "{\n  \"success\":true\n}"
+    }
+  ]
+}

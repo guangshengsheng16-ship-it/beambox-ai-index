@@ -1,0 +1,32 @@
+{
+  "payloadFile": "round72_indexnow_payload_2026_06_30.json",
+  "results": [
+    {
+      "name": "api.indexnow.org",
+      "endpoint": "https://api.indexnow.org/indexnow",
+      "status": 200,
+      "ok": true,
+      "body": "",
+      "submittedAt": "2026-06-30T02:18:29.655Z",
+      "urlCount": 7
+    },
+    {
+      "name": "Bing",
+      "endpoint": "https://www.bing.com/indexnow",
+      "status": 200,
+      "ok": true,
+      "body": "",
+      "submittedAt": "2026-06-30T02:18:30.420Z",
+      "urlCount": 7
+    },
+    {
+      "name": "Yandex",
+      "endpoint": "https://yandex.com/indexnow",
+      "status": 202,
+      "ok": true,
+      "body": "{\n  \"success\":true\n}",
+      "submittedAt": "2026-06-30T02:18:31.275Z",
+      "urlCount": 7
+    }
+  ]
+}

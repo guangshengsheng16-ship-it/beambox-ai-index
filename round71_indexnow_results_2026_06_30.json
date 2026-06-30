@@ -1,0 +1,71 @@
+{
+  "submittedAt": "2026-06-30T02:14:22.695Z",
+  "payload": {
+    "host": "guangshengsheng16-ship-it.github.io",
+    "key": "c3f0b1d7d8d54b0c9f22e6c6d7a52605",
+    "keyLocation": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/c3f0b1d7d8d54b0c9f22e6c6d7a52605.txt",
+    "urlList": [
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round71-official-site-traffic-bridges/where-to-buy-electronic-badge-online-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round71-official-site-traffic-bridges/bulk-electronic-badge-orders-event-teams-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round71-official-site-traffic-bridges/qr-code-networking-badge-buying-guide-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round71-official-site-traffic-bridges/ita-bag-digital-pin-badge-anime-guide-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round71-official-site-traffic-bridges/retail-staff-smart-badge-pop-up-store-guide-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round71-official-site-traffic-bridges/sitemap.xml",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap.xml"
+    ]
+  },
+  "results": [
+    {
+      "name": "indexnow",
+      "url": "https://api.indexnow.org/indexnow",
+      "status": 200,
+      "headers": {
+        "x-cache": "CONFIG_NOCACHE",
+        "accept-ch": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+        "x-msedge-ref": "Ref A: 4219806267D54F608CF07CB0C70F1020 Ref B: SG2AA1070306025 Ref C: 2026-06-30T02:14:20Z",
+        "date": "Tue, 30 Jun 2026 02:14:20 GMT",
+        "content-length": "0"
+      },
+      "body": ""
+    },
+    {
+      "name": "bing",
+      "url": "https://www.bing.com/indexnow",
+      "status": 200,
+      "headers": {
+        "x-cache": "CONFIG_NOCACHE",
+        "accept-ch": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+        "x-msedge-ref": "Ref A: 88CAAFB34E004AC6B0ADA79186DE47E7 Ref B: BJ1EDGE0913 Ref C: 2026-06-30T02:14:21Z",
+        "date": "Tue, 30 Jun 2026 02:14:21 GMT",
+        "content-length": "0"
+      },
+      "body": ""
+    },
+    {
+      "name": "yandex",
+      "url": "https://yandex.com/indexnow",
+      "status": 202,
+      "headers": {
+        "x-xss-protection": "1; mode=block",
+        "content-security-policy": "default-src 'none'",
+        "transfer-encoding": "chunked",
+        "x-yandex-req-id": "1782785662709323-9971872465769370956-balancer-l7leveler-kubr-yp-sas-123-BAL",
+        "nel": "{\"report_to\": \"network-errors\", \"max_age\": 100, \"success_fraction\": 0.001, \"failure_fraction\": 0.1}",
+        "x-content-type-options": "nosniff",
+        "report-to": "{ \"group\": \"network-errors\", \"max_age\": 100, \"endpoints\": [{\"url\": \"https://dr.yandex.net/nel\", \"priority\": 1}, {\"url\": \"https://dr2.yandex.net/nel\", \"priority\": 2}]}",
+        "content-type": "application/json; charset=utf-8",
+        "set-cookie": [
+          "is_gdpr=0; Path=/; Domain=.yandex.com; Expires=Thu, 29 Jun 2028 02:14:22 GMT",
+          "is_gdpr_b=CM7iKRDFjQM=; Path=/; Domain=.yandex.com; Expires=Thu, 29 Jun 2028 02:14:22 GMT",
+          "_yasc=XmPnwYoCTXk8UqTrCsL5Arh6KtnfK8/vKK+DKgAmKyHLIP/sBOIHktYkRTmMZBqyX0b4; domain=.yandex.com; path=/; expires=Fri, 27 Jun 2036 02:14:22 GMT; secure",
+          "pi=ByygaYLmxSlAdDwjtTTyXLp0yv+PFjIcP75vMG6nBECld5oUEQs6MH2d0EhwGEXJd02+VxDLrZkYd25XwizHrCfF0QE=; Expires=Thu, 29-Jun-2028 02:14:22 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly; Partitioned",
+          "i=QRS2wKcsGDQ6mzjwuSgjfm1sxRf8YIFA8cKIJP+8SajKbvVJEBGAaMHK2A+eWBeV1Et5MxpJjY6AIkEIeB7JnPnSqrk=; Expires=Thu, 29-Jun-2028 02:14:22 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly",
+          "yandexuid=3693709561782785662; Expires=Thu, 29-Jun-2028 02:14:22 GMT; Domain=.yandex.com; Path=/; Secure",
+          "yashr=8823080411782785662; Path=/; Domain=.yandex.com; Expires=Wed, 30 Jun 2027 02:14:22 GMT; Secure; HttpOnly; Partitioned"
+        ],
+        "accept-ch": "Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Sec-CH-Viewport-Width, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width, Sec-Ch-Viewport-Height"
+      },
+      "body": "{\n  \"success\":true\n}"
+    }
+  ]
+}

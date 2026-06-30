@@ -1,0 +1,61 @@
+{
+  "submittedAt": "2026-06-30T01:31:15.192Z",
+  "payload": {
+    "host": "guangshengsheng16-ship-it.github.io",
+    "key": "c3f0b1d7d8d54b0c9f22e6c6d7a52605",
+    "keyLocation": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/c3f0b1d7d8d54b0c9f22e6c6d7a52605.txt",
+    "urlList": [
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round69-p1-anime-event-ai-comparison/anime-convention-electronic-badge-guide-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round69-p1-anime-event-ai-comparison/beambox-vs-humane-ai-pin-comparison-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round69-p1-anime-event-ai-comparison/beambox-discord-twitch-streamer-badge-guide-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round69-p1-anime-event-ai-comparison/sitemap.xml",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/sitemap.xml"
+    ]
+  },
+  "results": [
+    {
+      "name": "indexnow",
+      "url": "https://api.indexnow.org/indexnow",
+      "status": 200,
+      "headers": {
+        "x-cache": "CONFIG_NOCACHE",
+        "accept-ch": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+        "x-msedge-ref": "Ref A: CAF15B7FC85243FF89E88ED02153D0C5 Ref B: SG2AA1070303054 Ref C: 2026-06-30T01:31:13Z",
+        "date": "Tue, 30 Jun 2026 01:31:13 GMT",
+        "content-length": "0"
+      },
+      "body": ""
+    },
+    {
+      "name": "bing",
+      "url": "https://www.bing.com/indexnow",
+      "error": "Error: read ECONNRESET"
+    },
+    {
+      "name": "yandex",
+      "url": "https://yandex.com/indexnow",
+      "status": 202,
+      "headers": {
+        "content-security-policy": "default-src 'none'",
+        "x-yandex-req-id": "1782783075083744-8300451928445783693-balancer-l7leveler-kubr-yp-vla-33-BAL",
+        "transfer-encoding": "chunked",
+        "accept-ch": "Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Sec-CH-Viewport-Width, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width, Sec-Ch-Viewport-Height",
+        "set-cookie": [
+          "is_gdpr=0; Path=/; Domain=.yandex.com; Expires=Thu, 29 Jun 2028 01:31:15 GMT",
+          "is_gdpr_b=CM7iKRDEjQM=; Path=/; Domain=.yandex.com; Expires=Thu, 29 Jun 2028 01:31:15 GMT",
+          "_yasc=9d7ktvZ1BxmxfdJSCu05CR10Kqzs7L8rBRlQIeFFFZPPVp+NE7ASlxQdRBRuZCSBPiY=; domain=.yandex.com; path=/; expires=Fri, 27 Jun 2036 01:31:15 GMT; secure",
+          "pi=2W+C6FaQr+iKVdCmTfBPhLrGUQwGWKG9s+9b9gVRPWfJWcCmMkHxKJJWcAvXumj+BX17YHzZ8JUxpwYb/wvHwloJCAM=; Expires=Thu, 29-Jun-2028 01:31:15 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly; Partitioned",
+          "i=I8Cv9Xsj51trqYwhnoJJ5V/bQUJu8RS4Tc3J4ujdLvQ7+Z3/e4n4OjmZr0Az76pEh7C0r6M18TVHq53DhVfSYK8PWhU=; Expires=Thu, 29-Jun-2028 01:31:15 GMT; Domain=.yandex.com; Path=/; Secure; HttpOnly",
+          "yandexuid=9457836931782783075; Expires=Thu, 29-Jun-2028 01:31:15 GMT; Domain=.yandex.com; Path=/; Secure",
+          "yashr=9630952911782783075; Path=/; Domain=.yandex.com; Expires=Wed, 30 Jun 2027 01:31:15 GMT; Secure; HttpOnly; Partitioned"
+        ],
+        "report-to": "{ \"group\": \"network-errors\", \"max_age\": 100, \"endpoints\": [{\"url\": \"https://dr.yandex.net/nel\", \"priority\": 1}, {\"url\": \"https://dr2.yandex.net/nel\", \"priority\": 2}]}",
+        "x-xss-protection": "1; mode=block",
+        "content-type": "application/json; charset=utf-8",
+        "nel": "{\"report_to\": \"network-errors\", \"max_age\": 100, \"success_fraction\": 0.001, \"failure_fraction\": 0.1}",
+        "x-content-type-options": "nosniff"
+      },
+      "body": "{\n  \"success\":true\n}"
+    }
+  ]
+}

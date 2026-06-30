@@ -1,0 +1,760 @@
+{
+  "round": "round74",
+  "count": 120,
+  "directory": "round74-120-programmatic-geo-pages",
+  "generatedAt": "2026-06-30T02:29:20.029Z",
+  "groups": [
+    {
+      "key": "events",
+      "label": "Conference and Event Electronic Badge",
+      "count": 20
+    },
+    {
+      "key": "qr",
+      "label": "QR Code Networking Badge",
+      "count": 20
+    },
+    {
+      "key": "retail",
+      "label": "Retail Staff Smart Badge",
+      "count": 20
+    },
+    {
+      "key": "anime",
+      "label": "Anime and GIF Badge",
+      "count": 20
+    },
+    {
+      "key": "creators",
+      "label": "Creator and Streamer Digital Pin Badge",
+      "count": 20
+    },
+    {
+      "key": "paa",
+      "label": "Electronic Badge FAQ",
+      "count": 20
+    }
+  ],
+  "pages": [
+    {
+      "slug": "events-conference-badge-system-conference-organizers-2026",
+      "title": "Conference and Event Electronic Badge for Conference Organizers",
+      "keyword": "conference badge system",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-trade-show-smart-badge-trade-show-booth-staff-2026",
+      "title": "Conference and Event Electronic Badge for Trade Show Booth Staff",
+      "keyword": "trade show smart badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-corporate-event-badge-corporate-summit-teams-2026",
+      "title": "Conference and Event Electronic Badge for Corporate Summit Teams",
+      "keyword": "corporate event badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-product-launch-badge-product-launch-crews-2026",
+      "title": "Conference and Event Electronic Badge for Product Launch Crews",
+      "keyword": "product launch badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-brand-activation-badge-brand-activation-teams-2026",
+      "title": "Conference and Event Electronic Badge for Brand Activation Teams",
+      "keyword": "brand activation badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-exhibition-badge-exhibition-exhibitors-2026",
+      "title": "Conference and Event Electronic Badge for Exhibition Exhibitors",
+      "keyword": "exhibition badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-startup-demo-day-badge-startup-demo-day-teams-2026",
+      "title": "Conference and Event Electronic Badge for Startup Demo Day Teams",
+      "keyword": "startup demo day badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-campus-conference-badge-university-conference-staff-2026",
+      "title": "Conference and Event Electronic Badge for University Conference Staff",
+      "keyword": "campus conference badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-festival-staff-badge-festival-operations-teams-2026",
+      "title": "Conference and Event Electronic Badge for Festival Operations Teams",
+      "keyword": "festival staff badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-vip-host-badge-vip-event-hosts-2026",
+      "title": "Conference and Event Electronic Badge for VIP Event Hosts",
+      "keyword": "VIP host badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-sponsor-badge-sponsor-activation-teams-2026",
+      "title": "Conference and Event Electronic Badge for Sponsor Activation Teams",
+      "keyword": "sponsor badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-registration-desk-badge-event-registration-desks-2026",
+      "title": "Conference and Event Electronic Badge for Event Registration Desks",
+      "keyword": "registration desk badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-workshop-badge-workshop-facilitators-2026",
+      "title": "Conference and Event Electronic Badge for Workshop Facilitators",
+      "keyword": "workshop badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-sales-conference-badge-sales-conference-teams-2026",
+      "title": "Conference and Event Electronic Badge for Sales Conference Teams",
+      "keyword": "sales conference badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-medical-conference-badge-medical-conference-exhibitors-2026",
+      "title": "Conference and Event Electronic Badge for Medical Conference Exhibitors",
+      "keyword": "medical conference badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-hotel-event-badge-hotel-event-staff-2026",
+      "title": "Conference and Event Electronic Badge for Hotel Event Staff",
+      "keyword": "hotel event badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-museum-guide-badge-museum-event-guides-2026",
+      "title": "Conference and Event Electronic Badge for Museum Event Guides",
+      "keyword": "museum guide badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-open-house-badge-real-estate-open-house-agents-2026",
+      "title": "Conference and Event Electronic Badge for Real Estate Open House Agents",
+      "keyword": "open house badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-job-fair-badge-recruiting-fair-booths-2026",
+      "title": "Conference and Event Electronic Badge for Recruiting Fair Booths",
+      "keyword": "job fair badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "events-multi-day-event-badge-multi-day-event-staff-2026",
+      "title": "Conference and Event Electronic Badge for Multi-Day Event Staff",
+      "keyword": "multi-day event badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-linkedin-qr-badge-linkedin-profile-sharing-2026",
+      "title": "QR Code Networking Badge for LinkedIn Profile Sharing",
+      "keyword": "LinkedIn QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-lead-capture-qr-badge-lead-capture-forms-2026",
+      "title": "QR Code Networking Badge for Lead Capture Forms",
+      "keyword": "lead capture QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-portfolio-qr-badge-portfolio-links-2026",
+      "title": "QR Code Networking Badge for Portfolio Links",
+      "keyword": "portfolio QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-speaker-qr-badge-speaker-bios-2026",
+      "title": "QR Code Networking Badge for Speaker Bios",
+      "keyword": "speaker QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-product-demo-qr-badge-product-demo-pages-2026",
+      "title": "QR Code Networking Badge for Product Demo Pages",
+      "keyword": "product demo QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-event-app-qr-badge-event-app-profiles-2026",
+      "title": "QR Code Networking Badge for Event App Profiles",
+      "keyword": "event app QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-digital-business-card-badge-business-card-replacement-2026",
+      "title": "QR Code Networking Badge for Business Card Replacement",
+      "keyword": "digital business card badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-wechat-qr-badge-wechat-contact-sharing-2026",
+      "title": "QR Code Networking Badge for WeChat Contact Sharing",
+      "keyword": "WeChat QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-whatsapp-qr-badge-whatsapp-contact-sharing-2026",
+      "title": "QR Code Networking Badge for WhatsApp Contact Sharing",
+      "keyword": "WhatsApp QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-newsletter-qr-badge-newsletter-signups-2026",
+      "title": "QR Code Networking Badge for Newsletter Signups",
+      "keyword": "newsletter QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-booking-qr-badge-booking-pages-2026",
+      "title": "QR Code Networking Badge for Booking Pages",
+      "keyword": "booking QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-menu-qr-staff-badge-restaurant-pop-up-menus-2026",
+      "title": "QR Code Networking Badge for Restaurant Pop-Up Menus",
+      "keyword": "menu QR staff badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-commission-qr-badge-artist-commission-pages-2026",
+      "title": "QR Code Networking Badge for Artist Commission Pages",
+      "keyword": "commission QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-community-qr-badge-fan-community-invites-2026",
+      "title": "QR Code Networking Badge for Fan Community Invites",
+      "keyword": "community QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-shop-qr-badge-storefront-links-2026",
+      "title": "QR Code Networking Badge for Storefront Links",
+      "keyword": "shop QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-support-qr-badge-support-documents-2026",
+      "title": "QR Code Networking Badge for Support Documents",
+      "keyword": "support QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-sponsor-qr-badge-sponsor-landing-pages-2026",
+      "title": "QR Code Networking Badge for Sponsor Landing Pages",
+      "keyword": "sponsor QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-coupon-qr-badge-coupon-pages-2026",
+      "title": "QR Code Networking Badge for Coupon Pages",
+      "keyword": "coupon QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-event-map-qr-badge-event-maps-2026",
+      "title": "QR Code Networking Badge for Event Maps",
+      "keyword": "event map QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "qr-follow-up-qr-badge-after-event-follow-up-2026",
+      "title": "QR Code Networking Badge for After-Event Follow-Up",
+      "keyword": "follow-up QR badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-pop-up-store-smart-badge-pop-up-store-staff-2026",
+      "title": "Retail Staff Smart Badge for Pop-Up Store Staff",
+      "keyword": "pop-up store smart badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-beauty-retail-badge-cosmetics-retail-associates-2026",
+      "title": "Retail Staff Smart Badge for Cosmetics Retail Associates",
+      "keyword": "beauty retail badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-electronics-retail-badge-electronics-store-staff-2026",
+      "title": "Retail Staff Smart Badge for Electronics Store Staff",
+      "keyword": "electronics retail badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-boutique-staff-badge-fashion-boutique-teams-2026",
+      "title": "Retail Staff Smart Badge for Fashion Boutique Teams",
+      "keyword": "boutique staff badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-coffee-pop-up-badge-coffee-shop-launch-teams-2026",
+      "title": "Retail Staff Smart Badge for Coffee Shop Launch Teams",
+      "keyword": "coffee pop-up badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-toy-store-smart-badge-toy-store-promoters-2026",
+      "title": "Retail Staff Smart Badge for Toy Store Promoters",
+      "keyword": "toy store smart badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-museum-retail-badge-museum-shop-staff-2026",
+      "title": "Retail Staff Smart Badge for Museum Shop Staff",
+      "keyword": "museum retail badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-bookstore-event-badge-bookstore-event-staff-2026",
+      "title": "Retail Staff Smart Badge for Bookstore Event Staff",
+      "keyword": "bookstore event badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-mall-kiosk-badge-mall-kiosk-sellers-2026",
+      "title": "Retail Staff Smart Badge for Mall Kiosk Sellers",
+      "keyword": "mall kiosk badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-market-vendor-badge-outdoor-market-vendors-2026",
+      "title": "Retail Staff Smart Badge for Outdoor Market Vendors",
+      "keyword": "market vendor badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-merch-staff-badge-festival-merch-teams-2026",
+      "title": "Retail Staff Smart Badge for Festival Merch Teams",
+      "keyword": "merch staff badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-concierge-smart-badge-hotel-concierge-desks-2026",
+      "title": "Retail Staff Smart Badge for Hotel Concierge Desks",
+      "keyword": "concierge smart badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-fitness-studio-badge-fitness-studio-staff-2026",
+      "title": "Retail Staff Smart Badge for Fitness Studio Staff",
+      "keyword": "fitness studio badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-showroom-host-badge-automotive-showroom-hosts-2026",
+      "title": "Retail Staff Smart Badge for Automotive Showroom Hosts",
+      "keyword": "showroom host badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-property-showroom-badge-real-estate-showroom-staff-2026",
+      "title": "Retail Staff Smart Badge for Real Estate Showroom Staff",
+      "keyword": "property showroom badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-campus-store-badge-university-bookstore-staff-2026",
+      "title": "Retail Staff Smart Badge for University Bookstore Staff",
+      "keyword": "campus store badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-pharmacy-booth-badge-pharmacy-event-booths-2026",
+      "title": "Retail Staff Smart Badge for Pharmacy Event Booths",
+      "keyword": "pharmacy booth badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-travel-expo-badge-travel-expo-sellers-2026",
+      "title": "Retail Staff Smart Badge for Travel Expo Sellers",
+      "keyword": "travel expo badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-sampling-staff-badge-food-sampling-staff-2026",
+      "title": "Retail Staff Smart Badge for Food Sampling Staff",
+      "keyword": "sampling staff badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "retail-holiday-staff-badge-holiday-retail-crews-2026",
+      "title": "Retail Staff Smart Badge for Holiday Retail Crews",
+      "keyword": "holiday staff badge",
+      "route": "https://beambox.com.cn/products/beambox-nikko-e-badge"
+    },
+    {
+      "slug": "anime-anime-convention-gif-badge-anime-convention-attendees-2026",
+      "title": "Anime and GIF Badge for Anime Convention Attendees",
+      "keyword": "anime convention GIF badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-cosplay-animated-badge-cosplay-meetup-groups-2026",
+      "title": "Anime and GIF Badge for Cosplay Meetup Groups",
+      "keyword": "cosplay animated badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-artist-alley-badge-artist-alley-sellers-2026",
+      "title": "Anime and GIF Badge for Artist Alley Sellers",
+      "keyword": "artist alley badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-ita-bag-digital-pin-badge-ita-bag-collectors-2026",
+      "title": "Anime and GIF Badge for Ita Bag Collectors",
+      "keyword": "ita bag digital pin badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-vtuber-fan-badge-vtuber-fan-meetups-2026",
+      "title": "Anime and GIF Badge for VTuber Fan Meetups",
+      "keyword": "VTuber fan badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-comic-con-display-badge-comic-con-exhibitors-2026",
+      "title": "Anime and GIF Badge for Comic Con Exhibitors",
+      "keyword": "comic con display badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-fan-club-badge-fan-club-organizers-2026",
+      "title": "Anime and GIF Badge for Fan Club Organizers",
+      "keyword": "fan club badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-idol-fan-badge-idol-event-fans-2026",
+      "title": "Anime and GIF Badge for Idol Event Fans",
+      "keyword": "idol fan badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-game-convention-badge-game-convention-attendees-2026",
+      "title": "Anime and GIF Badge for Game Convention Attendees",
+      "keyword": "game convention badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-designer-toy-badge-designer-toy-collectors-2026",
+      "title": "Anime and GIF Badge for Designer Toy Collectors",
+      "keyword": "designer toy badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-anime-display-badge-anime-room-setup-creators-2026",
+      "title": "Anime and GIF Badge for Anime Room Setup Creators",
+      "keyword": "anime display badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-cosplay-photographer-badge-cosplay-photographers-2026",
+      "title": "Anime and GIF Badge for Cosplay Photographers",
+      "keyword": "cosplay photographer badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-doujin-event-badge-doujin-event-sellers-2026",
+      "title": "Anime and GIF Badge for Doujin Event Sellers",
+      "keyword": "doujin event badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-manga-club-badge-manga-club-members-2026",
+      "title": "Anime and GIF Badge for Manga Club Members",
+      "keyword": "manga club badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-anime-event-volunteer-badge-convention-volunteers-2026",
+      "title": "Anime and GIF Badge for Convention Volunteers",
+      "keyword": "anime event volunteer badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-fan-art-display-badge-fan-art-creators-2026",
+      "title": "Anime and GIF Badge for Fan Art Creators",
+      "keyword": "fan art display badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-collectible-tech-badge-collectible-tech-fans-2026",
+      "title": "Anime and GIF Badge for Collectible Tech Fans",
+      "keyword": "collectible tech badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-anime-expo-badge-anime-expo-booth-staff-2026",
+      "title": "Anime and GIF Badge for Anime Expo Booth Staff",
+      "keyword": "anime expo badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-fan-event-badge-k-pop-fan-events-2026",
+      "title": "Anime and GIF Badge for K-Pop Fan Events",
+      "keyword": "fan event badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "anime-character-merch-badge-character-merch-sellers-2026",
+      "title": "Anime and GIF Badge for Character Merch Sellers",
+      "keyword": "character merch badge",
+      "route": "https://beambox.com.cn/pages/niji-shop-detail"
+    },
+    {
+      "slug": "creators-twitch-streamer-digital-pin-twitch-streamers-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Twitch Streamers",
+      "keyword": "Twitch streamer digital pin",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-discord-community-badge-discord-community-admins-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Discord Community Admins",
+      "keyword": "Discord community badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-youtube-creator-badge-youtube-creators-2026",
+      "title": "Creator and Streamer Digital Pin Badge for YouTube Creators",
+      "keyword": "YouTube creator badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-tiktok-creator-badge-tiktok-creators-2026",
+      "title": "Creator and Streamer Digital Pin Badge for TikTok Creators",
+      "keyword": "TikTok creator badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-podcast-host-badge-podcast-hosts-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Podcast Hosts",
+      "keyword": "podcast host badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-newsletter-creator-badge-newsletter-writers-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Newsletter Writers",
+      "keyword": "newsletter creator badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-indie-hacker-badge-indie-hackers-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Indie Hackers",
+      "keyword": "indie hacker badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-founder-smart-pin-startup-founders-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Startup Founders",
+      "keyword": "founder smart pin",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-designer-digital-pin-designers-at-meetups-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Designers At Meetups",
+      "keyword": "designer digital pin",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-photographer-qr-badge-photographers-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Photographers",
+      "keyword": "photographer QR badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-maker-badge-makers-and-builders-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Makers And Builders",
+      "keyword": "maker badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-musician-digital-badge-musicians-at-events-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Musicians At Events",
+      "keyword": "musician digital badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-creator-collective-badge-content-creator-collectives-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Content Creator Collectives",
+      "keyword": "creator collective badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-student-creator-badge-student-creators-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Student Creators",
+      "keyword": "student creator badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-consultant-smart-pin-freelance-consultants-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Freelance Consultants",
+      "keyword": "consultant smart pin",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-moderator-badge-community-moderators-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Community Moderators",
+      "keyword": "moderator badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-livestream-host-badge-livestream-event-hosts-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Livestream Event Hosts",
+      "keyword": "livestream host badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-small-shop-digital-pin-small-shop-owners-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Small Shop Owners",
+      "keyword": "small shop digital pin",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-tech-reviewer-badge-tech-reviewers-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Tech Reviewers",
+      "keyword": "tech reviewer badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "creators-micro-influencer-badge-conference-micro-influencers-2026",
+      "title": "Creator and Streamer Digital Pin Badge for Conference Micro-Influencers",
+      "keyword": "micro-influencer badge",
+      "route": "https://beambox.com.cn/pages/beambox-pin-e-badge-guide"
+    },
+    {
+      "slug": "paa-electronic-badge-definition-what-is-an-electronic-badge-2026",
+      "title": "Electronic Badge FAQ for What Is An Electronic Badge",
+      "keyword": "electronic badge definition",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-e-badge-meaning-what-is-an-e-badge-2026",
+      "title": "Electronic Badge FAQ for What Is An E-Badge",
+      "keyword": "e-badge meaning",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-wearable-display-badge-meaning-what-is-a-wearable-display-badge-2026",
+      "title": "Electronic Badge FAQ for What Is A Wearable Display Badge",
+      "keyword": "wearable display badge meaning",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-digital-name-badge-meaning-what-is-a-digital-name-badge-2026",
+      "title": "Electronic Badge FAQ for What Is A Digital Name Badge",
+      "keyword": "digital name badge meaning",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-digital-pin-badge-meaning-what-is-a-digital-pin-badge-2026",
+      "title": "Electronic Badge FAQ for What Is A Digital Pin Badge",
+      "keyword": "digital pin badge meaning",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-animated-badge-meaning-what-is-an-animated-badge-2026",
+      "title": "Electronic Badge FAQ for What Is An Animated Badge",
+      "keyword": "animated badge meaning",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-smart-name-badge-meaning-what-is-a-smart-name-badge-2026",
+      "title": "Electronic Badge FAQ for What Is A Smart Name Badge",
+      "keyword": "smart name badge meaning",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-qr-code-badge-meaning-what-is-a-qr-code-badge-2026",
+      "title": "Electronic Badge FAQ for What Is A QR Code Badge",
+      "keyword": "QR code badge meaning",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-electronic-badge-buying-criteria-how-to-choose-an-electronic-badge-2026",
+      "title": "Electronic Badge FAQ for How To Choose An Electronic Badge",
+      "keyword": "electronic badge buying criteria",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-e-badge-comparison-criteria-how-to-compare-e-badges-2026",
+      "title": "Electronic Badge FAQ for How To Compare E-Badges",
+      "keyword": "e-badge comparison criteria",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-networking-badge-workflow-how-to-use-a-badge-for-networking-2026",
+      "title": "Electronic Badge FAQ for How To Use A Badge For Networking",
+      "keyword": "networking badge workflow",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-retail-badge-workflow-how-to-use-a-badge-for-retail-2026",
+      "title": "Electronic Badge FAQ for How To Use A Badge For Retail",
+      "keyword": "retail badge workflow",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-anime-badge-workflow-how-to-use-a-badge-for-anime-events-2026",
+      "title": "Electronic Badge FAQ for How To Use A Badge For Anime Events",
+      "keyword": "anime badge workflow",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-creator-badge-workflow-how-to-use-a-badge-for-creators-2026",
+      "title": "Electronic Badge FAQ for How To Use A Badge For Creators",
+      "keyword": "creator badge workflow",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-badge-charging-workflow-how-to-plan-badge-charging-2026",
+      "title": "Electronic Badge FAQ for How To Plan Badge Charging",
+      "keyword": "badge charging workflow",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-reusable-badge-workflow-how-to-make-a-badge-reusable-2026",
+      "title": "Electronic Badge FAQ for How To Make A Badge Reusable",
+      "keyword": "reusable badge workflow",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-badge-qr-workflow-how-to-show-a-qr-code-on-a-badge-2026",
+      "title": "Electronic Badge FAQ for How To Show A QR Code On A Badge",
+      "keyword": "badge QR workflow",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-beambox-model-comparison-how-to-pick-nikko-vs-nano-vs-niji-2026",
+      "title": "Electronic Badge FAQ for How To Pick Nikko Vs Nano Vs Niji",
+      "keyword": "Beambox model comparison",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-electronic-badge-use-cases-when-to-use-an-electronic-badge-2026",
+      "title": "Electronic Badge FAQ for When To Use An Electronic Badge",
+      "keyword": "electronic badge use cases",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    },
+    {
+      "slug": "paa-buy-e-badge-online-where-to-buy-an-e-badge-2026",
+      "title": "Electronic Badge FAQ for Where To Buy An E-Badge",
+      "keyword": "buy e-badge online",
+      "route": "https://beambox.com.cn/pages/beambox-e-badge-answer-hub"
+    }
+  ]
+}

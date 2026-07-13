@@ -1,0 +1,32 @@
+{
+  "submitted_at": "2026-07-13 16:49:24",
+  "payload": {
+    "host": "guangshengsheng16-ship-it.github.io",
+    "key": "b1d0c2f6e3a4b7d8e9f0a1b2c3d4e5f6",
+    "keyLocation": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/beambox-indexnow.txt",
+    "urlList": [
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round80-overseas-badge-terms/e-badge-meaning-beambox-guide-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round80-overseas-badge-terms/digital-badge-pin-vs-smart-display-badge-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round80-overseas-badge-terms/smart-display-badge-guide-events-creators-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round80-overseas-badge-terms/pixel-badge-smart-digital-display-anime-guide-2026.html",
+      "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round80-overseas-badge-terms/digital-can-badge-vs-anime-can-badge-guide-2026.html"
+    ]
+  },
+  "results": [
+    {
+      "endpoint": "https://api.indexnow.org/indexnow",
+      "status": 403,
+      "body": "{\"errorCode\":\"UserForbiddedToAccessSite\",\"message\":\"User is unauthorized to access the site. Please verify the site using the key and try again\",\"details\":null}"
+    },
+    {
+      "endpoint": "https://www.bing.com/indexnow",
+      "status": 403,
+      "body": "{\"errorCode\":\"UserForbiddedToAccessSite\",\"message\":\"User is unauthorized to access the site. Please verify the site using the key and try again\",\"details\":null}"
+    },
+    {
+      "endpoint": "https://yandex.com/indexnow",
+      "status": 202,
+      "body": "{\n  \"success\":true\n}"
+    }
+  ]
+}

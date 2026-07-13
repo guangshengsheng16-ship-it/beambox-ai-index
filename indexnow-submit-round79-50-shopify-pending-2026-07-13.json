@@ -1,0 +1,16 @@
+{
+  "payload_count": 50,
+  "key": "c3f0b1d7d8d54b0c9f22e6c6d7a52605",
+  "results": [
+    {
+      "endpoint": "https://api.indexnow.org/indexnow",
+      "status": 422,
+      "body": "{\"errorCode\":\"InvalidRequestParameters\",\"message\":\"One or more URLs are not related to your site verified through the keylocation parameter. Please verify URLs before submitting.\",\"details\":null}"
+    },
+    {
+      "endpoint": "https://yandex.com/indexnow",
+      "status": 422,
+      "body": "{\n  \"success\":false,\n  \"invalidUrlList\":\n    [\n      \"https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round79-50-shopify-pending/beambox-vs-NFC-card-conference-organizers-guide-2026.html\",\n      \"https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round79-50-shopify-pending/beambox-vs-NFC-card-trade-show-exhibitors-guide-2026.html\",\n      \"https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round79-50-shopify-pending/beambox-vs-NFC-card-team-leaders-guide-2026.html"
+    }
+  ]
+}

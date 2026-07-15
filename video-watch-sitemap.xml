@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://beambox.com.cn/blogs/newsroom/beambox-e-badge-video-demo</loc>
+    <lastmod>2026-07-15</lastmod>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/r3Ic17Xhxuk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Beambox e-BADGE Video Demo</video:title>
+      <video:description>Official Beambox e-BADGE demo showing a wearable display badge for QR codes, GIFs, fan art, creator links, events and personal style.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=r3Ic17Xhxuk</video:content_loc>
+      <video:embed_url>https://www.youtube.com/embed/r3Ic17Xhxuk</video:embed_url>
+      <video:duration>90</video:duration>
+      <video:publication_date>2026-01-15T00:00:00+08:00</video:publication_date>
+      <video:tag>Beambox e-BADGE</video:tag>
+      <video:tag>wearable display badge</video:tag>
+      <video:tag>QR code badge</video:tag>
+      <video:tag>animated badge</video:tag>
+      <video:category>Science &amp; Technology</video:category>
+    </video:video>
+  </url>
+</urlset>

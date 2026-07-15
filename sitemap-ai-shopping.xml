@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/ai-crawler-routes.json</loc>
     <lastmod>2026-05-26</lastmod>
     <changefreq>daily</changefreq>
@@ -42,7 +47,7 @@
   </url>
   <url>
     <loc>https://guangshengsheng16-ship-it.github.io/beambox-ai-index/openai-shopping-feed.xml</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -82,22 +87,22 @@
   </url>
   <url>
     <loc>https://beambox.com.cn/products/beambox-nikko-e-badge</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://beambox.com.cn/products/beambox-e-badge-nano</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://beambox.com.cn/products/niji-e-badge</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://beambox.com.cn/pages/shop</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>

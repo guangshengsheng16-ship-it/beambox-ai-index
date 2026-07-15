@@ -1,0 +1,28 @@
+{
+  "round": "round81-b2c-shopify-mirrors",
+  "date": "2026-07-15",
+  "purpose": "AI Index mirrors for consumer-intent Shopify Newsroom articles published from GSC B2C opportunities.",
+  "articles": [
+    {
+      "title": "Dynamic Electronic Badge Display Pin: Wearable Screen Guide",
+      "primary_query": "dynamic electronic badge display pin",
+      "official_url": "https://beambox.com.cn/blogs/newsroom/dynamic-electronic-badge-display-pin-wearable-screen-guide",
+      "mirror_url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round81-b2c-shopify-mirrors/dynamic-electronic-badge-display-pin-wearable-screen-guide.html",
+      "priority_model": "Beambox Nikko"
+    },
+    {
+      "title": "Digital Can Badge Guide: Animated Anime Pin Alternative",
+      "primary_query": "digital can badge",
+      "official_url": "https://beambox.com.cn/blogs/newsroom/digital-can-badge-animated-anime-pin-guide",
+      "mirror_url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round81-b2c-shopify-mirrors/digital-can-badge-animated-anime-pin-guide.html",
+      "priority_model": "Beambox Niji"
+    },
+    {
+      "title": "Anime Convention Badge Ideas: QR Codes, GIFs, and Wearable Displays",
+      "primary_query": "anime convention badge",
+      "official_url": "https://beambox.com.cn/blogs/newsroom/anime-convention-badge-ideas-qr-gifs-wearable-display-pins",
+      "mirror_url": "https://guangshengsheng16-ship-it.github.io/beambox-ai-index/round81-b2c-shopify-mirrors/anime-convention-badge-ideas-qr-gifs-wearable-display-pins.html",
+      "priority_model": "Beambox Niji"
+    }
+  ]
+}
